@@ -49,9 +49,8 @@ function deriveRedirectUrl() {
 }
 
 const actionCodeSettings = {
-  // Use the current origin so email links work in production and on local previews
-  // without needing to change Firebase settings.
-  url: `${window.location.origin}${window.location.pathname}`.replace(/\/$/, ""),
+  // Use a whitelisted origin so email links work across previews and production.
+  url: deriveRedirectUrl(),
   handleCodeInApp: true
 };
 
