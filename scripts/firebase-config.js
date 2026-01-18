@@ -29,9 +29,10 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
-const CANONICAL_REDIRECT_URL = "https://theclassics.school";
+const CANONICAL_REDIRECT_URL = "https://classics.ourstuff.space";
 const ALLOWED_REDIRECT_ORIGINS = new Set([
 	CANONICAL_REDIRECT_URL,
+	"https://ourstuff.space",
 	"http://localhost:3000",
 	"http://localhost:4173",
 	"http://127.0.0.1:5500",
