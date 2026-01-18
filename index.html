@@ -1,27 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-  <meta name="theme-color" content="#e98839" />
-  <meta name="application-name" content="theclassics.school" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-  <meta name="apple-mobile-web-app-title" content="theclassics.school" />
-  <meta name="mobile-web-app-capable" content="yes" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="theme-color" content="#e98839">
+  <meta name="application-name" content="theclassics.school">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="theclassics.school">
+  <meta name="mobile-web-app-capable" content="yes">
   <title>theclassics.school – How to Use This Site</title>
-  <link rel="apple-touch-icon" sizes="180x180" href="/icons/favicons/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicons/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="/manifest.webmanifest" />
-  <link rel="shortcut icon" href="/icons/favicons/favicon.ico" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;700&display=swap" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/icons/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="shortcut icon" href="/icons/favicons/favicon.ico">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
   <script src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
-  <link rel="stylesheet" href="./styles/base.css" />
-  <link rel="stylesheet" href="./styles/layout.css" />
-  <link rel="stylesheet" href="./styles/components.css" />
-  <link rel="stylesheet" href="./styles/utilities.css" />
+  <link rel="stylesheet" href="./styles/base.css">
+  <link rel="stylesheet" href="./styles/layout.css">
+  <link rel="stylesheet" href="./styles/components.css">
+  <link rel="stylesheet" href="./styles/utilities.css">
 
 </head>
 <body>
@@ -51,7 +51,7 @@
   </nav>
   <header class="site-header">
     <div class="brand">
-      <img src="./icons/logos/logo_book_column_blue.png" alt="theclassics.school logo" class="brand__logo" />
+      <img src="./icons/logos/logo_book_column_blue.png" alt="theclassics.school logo" class="brand__logo">
       <div class="brand__text">
         <h1>theclassics.school</h1>
         <p>A Place to Read, Discover, and Grow</p>
@@ -70,11 +70,11 @@
     <div class="auth-card__body">
       <div class="auth-card__fields">
         <label for="emailForSignInHome">Account email</label>
-        <input id="emailForSignInHome" data-auth-email type="email" placeholder="Enter your email" />
+        <input id="emailForSignInHome" data-auth-email type="email" placeholder="Enter your email">
       </div>
       <div class="auth-card__actions">
         <p class="login-status" data-auth-status aria-live="polite">Not signed in</p>
-        <button id="sendSignInLinkHome" data-auth-send data-email-field="emailForSignInHome">Send Sign-In Link</button>
+        <button id="sendSignInLinkHome" data-auth-send data-email-field="emailForSignInHome" type="button">Send Sign-In Link</button>
       </div>
     </div>
   </section>
@@ -84,19 +84,19 @@
       <p class="helper-text">Enter your master passphrase to access lessons, settings, and notes. We only keep the key while this page is open.</p>
       <div class="vault-field">
         <label for="gatePassphrase">Master passphrase</label>
-        <input id="gatePassphrase" type="password" autocomplete="current-password" placeholder="Enter your master passphrase" />
+        <input id="gatePassphrase" type="password" autocomplete="current-password" placeholder="Enter your master passphrase">
         <p class="passphrase-warning">If you never set one, choose a strong passphrase below to initialize your encrypted vault.</p>
         <div class="trusted-device-row">
-          <input id="gateTrustedDevice" type="checkbox" />
+          <input id="gateTrustedDevice" type="checkbox">
           <label for="gateTrustedDevice">
             <span>Trusted computer</span>
             <span class="trusted-device-hint">(don't ask again)</span>
           </label>
         </div>
         <div class="passphrase-actions">
-          <button id="gateUnlockBtn">Unlock</button>
-          <button id="gateInitializeBtn" class="secondary">Set up new passphrase</button>
-          <button id="gateGenerateBtn" class="secondary">Generate</button>
+          <button id="gateUnlockBtn" type="button">Unlock</button>
+          <button id="gateInitializeBtn" class="secondary" type="button">Set up new passphrase</button>
+          <button id="gateGenerateBtn" class="secondary" type="button">Generate</button>
         </div>
       </div>
     </div>
@@ -105,7 +105,7 @@
     <div id="lockedContent">
       <section id="homeSection" class="page-section" data-section="home">
         <div class="course-search">
-          <input type="text" id="courseSearch" placeholder="Search for a course..." />
+          <input type="text" id="courseSearch" placeholder="Search for a course...">
         </div>
         <div class="vault-card progress-summary" id="progressSummaryCard">
           <div class="progress-summary__header">
@@ -121,9 +121,9 @@
       </section>
       <section id="lessonsSection" class="page-section section-hidden" data-section="lessons">
         <div id="lessonsContainer" class="lessons-container drawer-mode">
-          <h2 id="selectedCourseTitle" style="color:var(--color-red);font-family:var(--font-classic);"></h2>
+          <h2 id="selectedCourseTitle" class="selected-course-title">Select a course to get started</h2>
           <p id="selectedCourseDesc"></p>
-          <h4 id="lessonProgress"></h4>
+          <h4 id="lessonProgress">Progress: 0 / 0 lessons</h4>
           <button id="closeCourseBtn" class="secondary course-action" type="button">Close course</button>
           <button id="mobileSidebarToggle" class="sidebar-fab course-action" type="button" aria-controls="lessonSidebar" aria-expanded="false">
             <i class="fa-solid fa-bars"></i>
@@ -131,7 +131,7 @@
           </button>
           <div id="sidebarOverlay" class="sidebar-overlay" aria-hidden="true"></div>
           <div class="lesson-layout" id="lessonLayout">
-            <aside class="lesson-sidebar" id="lessonSidebar">
+            <aside class="lesson-sidebar" id="lessonSidebar" aria-label="Lesson navigation">
               <div class="sidebar-header">
                 <i class="fa-solid fa-feather sidebar-header-icon" id="sidebarToggle" title="Toggle Lessons Menu"></i>
                 <h3 class="title-text">Lessons</h3>
@@ -169,14 +169,14 @@
                 </div>
                 <div class="quiz-flow__field">
                   <label for="quizQuestionCount">Question count</label>
-                  <input id="quizQuestionCount" type="number" min="5" max="15" value="10" />
+                  <input id="quizQuestionCount" type="number" min="5" max="15" value="10">
                 </div>
               </div>
               <div class="quiz-flow__actions">
                 <button id="quizFlowBackBtn" type="button" class="secondary">Back</button>
                 <button id="quizFlowNextBtn" type="button" class="secondary">Next</button>
                 <button id="duplicateQuizBtn" type="button" class="secondary">Duplicate</button>
-                <button id="generateQuizBtn">Confirm &amp; Save</button>
+                <button id="generateQuizBtn" type="button">Confirm &amp; Save</button>
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@
               <span class="sidebar-fab__label">Quizzes</span>
             </button>
             <div id="quizSidebarOverlay" class="sidebar-overlay" aria-hidden="true"></div>
-            <aside class="quiz-sidebar" id="quizSidebar">
+            <aside class="quiz-sidebar" id="quizSidebar" aria-label="Quiz navigation">
               <div class="sidebar-header">
                 <i class="fa-solid fa-feather sidebar-header-icon" aria-hidden="true"></i>
                 <h3 class="title-text">Saved quizzes</h3>
@@ -200,7 +200,7 @@
               <div class="quiz-filter">
                 <div class="quiz-filter__field">
                   <label for="quizLessonFilter">Filter by lesson</label>
-                  <input id="quizLessonFilter" type="text" placeholder="Start typing a lesson title" />
+                  <input id="quizLessonFilter" type="text" placeholder="Start typing a lesson title">
                 </div>
               </div>
               <div class="quiz-list" id="quizList"></div>
@@ -229,22 +229,22 @@
         <div class="settings-auth__grid">
           <div class="settings-field auth-input">
             <label for="emailForSignIn">Account email</label>
-            <input id="emailForSignIn" data-auth-email type="email" placeholder="Enter your email" />
+            <input id="emailForSignIn" data-auth-email type="email" placeholder="Enter your email">
           </div>
           <div class="settings-auth__actions">
             <p id="loginStatus" class="login-status" data-auth-status aria-live="polite"></p>
-            <button id="sendSignInLink" data-auth-send data-email-field="emailForSignIn">Send Sign-In Link</button>
+            <button id="sendSignInLink" data-auth-send data-email-field="emailForSignIn" type="button">Send Sign-In Link</button>
           </div>
         </div>
       </div>
-          <div id="settingsFields" style="display:none;">
+          <div id="settingsFields" class="settings-fields">
             <div class="settings-field">
               <label for="settingsDisplayName">Display name</label>
-              <input id="settingsDisplayName" type="text" placeholder="How you want to appear in the app" />
+              <input id="settingsDisplayName" type="text" placeholder="How you want to appear in the app">
             </div>
             <div class="settings-field">
               <label for="settingsApiKey">OpenAI API key</label>
-              <input id="settingsApiKey" type="password" placeholder="Paste your OpenAI API key" autocomplete="off" />
+              <input id="settingsApiKey" type="password" placeholder="Paste your OpenAI API key" autocomplete="off">
               <div class="settings-note">Stored only in your encrypted profile for lesson tools. Keep it private.</div>
             </div>
             <div class="settings-field">
@@ -255,7 +255,7 @@
           </div>
           <div class="settings-field">
             <label for="settingsNewPassphrase">Rotate passphrase (optional)</label>
-            <input id="settingsNewPassphrase" type="password" autocomplete="new-password" placeholder="Enter a new master passphrase" />
+            <input id="settingsNewPassphrase" type="password" autocomplete="new-password" placeholder="Enter a new master passphrase">
             <div class="settings-note">Rotating creates a new encryption key. You must remember the new passphrase to keep access.</div>
           </div>
           <div class="settings-actions">
@@ -271,10 +271,10 @@
   </main>
   <footer>
     <div class="footer-brand">
-      <img src="./icons/logos/logo_letters_TC.png" alt="The Classics TC monogram" class="footer-brand__logo" />
+      <img src="./icons/logos/logo_letters_TC.png" alt="The Classics TC monogram" class="footer-brand__logo">
     </div>
     <p>© 2025 theclassics.school</p>
-    <p>For inquiries, email <a href="mailto:info@theclassics.school" style="color:#fff;text-decoration:underline;">info@theclassics.school</a></p>
+    <p>For inquiries, email <a class="footer-email-link" href="mailto:info@theclassics.school">info@theclassics.school</a></p>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
