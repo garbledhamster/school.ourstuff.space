@@ -1,0 +1,410 @@
+course:
+  id: "0005"
+  title: "Atomic Habits"
+  description: >
+    A 4-Week Course to Teach students from the book 'Atomic Habits' by James Clear
+  lessons:
+    - lesson_id: 0a
+      title: "Course Outline"
+      course: |
+        ## Overview
+        This four-week, intensive course introduces the core principles from James Clear's Atomic Habits and translates them into practical, teachable modules. Students will learn how small habit changes compound into meaningful outcomes, how to design environments that support better behaviors, and how to shift identity through systems rather than relying on willpower. The course blends reading assignments, guided exercises, and weekly projects designed to build and measure real habit change.
+
+        **Key Takeaways**
+        - Small, consistent changes create significant long-term improvements when applied systematically.
+        - Habits are shaped by cues, cravings, responses, and rewards that can be designed intentionally.
+        - Identity-based habits and environment design are more durable than motivation alone.
+
+        **Key Concepts**
+        - Habit loop: cue, craving, response, reward; use it to redesign behavior triggers.
+        - Habit stacking and implementation intentions turn intentions into automatic routines.
+        - Environment design simplifies good choices and makes bad choices harder to perform.
+
+        **Key Terms**
+        - **Habit Loop**: The four-stage model (cue, craving, response, reward) explaining habit formation.
+        - **Implementation Intention**: A specific plan that links a situational cue to a concrete action.
+        - **Habit Stacking**: Attaching a new habit to an existing routine to increase adherence.
+        - **Identity-Based Habit**: Habit change strategy focused on who you wish to become, not just outcomes.
+
+        COURSE GOALS
+        - Teach students the scientific and practical framework behind habit formation.
+        - Provide tools to design environments and routines that support consistent habits.
+        - Guide learners to create measurable, identity-focused habit goals and tracking systems.
+        - Facilitate practice through exercises that move concepts from theory into daily life.
+
+        WEEKLY BREAKDOWN
+        #### **Week 1**
+        Reading: Atomic Habits — Introduction, Chapter 1 (The Surprising Power of Atomic Habits), Chapter 2 (How Your Habits Shape Your Identity).
+
+        Focus: Introduce the habit loop and identity-based habits. Establish baseline habit awareness by creating a habit scorecard and identifying one small habit to build.
+
+        Exercises:
+        - (Easy) Habit Scorecard Recall: Without notes, list 6 daily habits you perform and classify them as positive/neutral/negative.
+        - (Medium) Identify and Map: Write the cue, craving, response, and reward for one habit you want to change.
+        - (Challenging) Identity Mapping: Draft a short identity statement ("I am the type of person who...") and propose three tiny rituals that support it.
+
+        Weekly Assignment: Keep a habit log for seven days: track cue, action, context, and outcome for your chosen habit; submit a 300–500 word reflection on patterns observed.
+        ---
+        #### **Week 2**
+        Reading: Chapters 3–5 (Make It Obvious, Make It Attractive).
+
+        Focus: Learn the first two laws of behavior change: make cues obvious and make habits attractive. Emphasize environment design and temptation bundling.
+
+        Exercises:
+        - (Easy) Environment Scan: List 4 environmental cues in your home or workspace that trigger a habit, from memory.
+        - (Medium) Temptation Bundling Plan: Pair a habit you avoid with an enjoyable activity and write a schedule to practice it for one week.
+        - (Challenging) Cue Redesign: Rework a daily routine to remove one negative cue and add an obvious positive cue, sketching before/after scenarios.
+
+        Weekly Assignment: Implement one environment change and record adherence and friction points across five days; produce a short improvement plan.
+        ---
+        #### **Week 3**
+        Reading: Chapters 6–9 (Make It Easy, Make It Satisfying).
+
+        Focus: Practice the latter two laws: make responses easy and rewards satisfying. Cover two-minute rules, habit shaping, tracking, and immediate reinforcement.
+
+        Exercises:
+        - (Easy) Two-Minute Habit Drill: Choose a habit and practice its two-minute version for three consecutive days, reporting success rate.
+        - (Medium) Habit Tracking Design: Create a simple tracking system (paper or digital) and log a five-day trial, noting motivational changes.
+        - (Challenging) Reinforcement Strategy: Design a personalized reward schedule that reinforces progress without undermining goals.
+
+        Weekly Assignment: Run a 7-day experiment scaling a two-minute habit into longer practice; submit data and a 400–600 word analysis of barriers and wins.
+        ---
+        #### **Week 4**
+        Reading: Chapters 10–20 (Advanced topics: how to maintain habits, social context, and advanced strategies) and Conclusion.
+
+        Focus: Consolidation, troubleshooting plateaus, social influences, and long-term systems for continuous improvement. Emphasize identity reinforcement and habit integration into life goals.
+
+        Exercises:
+        - (Easy) Social Cue Reflection: From memory, list three social situations that influence your habits and whether they support or undermine you.
+        - (Medium) Habit Integration Plan: Create a 30-day plan that integrates one new habit with existing routines and track projected obstacles.
+        - (Challenging) Maintenance Playbook: Draft a one-page maintenance plan that covers relapse, reward calibration, and scaling strategies for six months.
+
+        Weekly Assignment: Final project — present a polished habit-change portfolio: baseline, interventions applied, data from tracking, reflection, and a six-month maintenance plan (750–1,000 words or slide deck).
+
+        ---
+        Course Delivery Notes: Each week includes brief synchronous check-ins (30–45 minutes) and asynchronous work (3–5 hours). Emphasis is placed on iterative practice, measurable progress, and peer feedback during week 4 presentations.
+    - lesson_id: 0b
+      title: "Atomic Habits — Course Summaries"
+      course: |
+        ## Overview
+        This four-week intensive course translates James Clear's Atomic Habits into a structured learning path that combines theory, reflection, and practical application. Students learn how tiny behavior changes compound into meaningful outcomes, how to design environments that nudge better choices, and how to anchor habits to identity instead of relying on willpower. Through short readings, guided exercises, habit-tracking practices, and weekly assignments, learners progressively build, test, and refine sustainable routines. The course emphasizes measurable practice: students repeatedly apply the habit loop, experiment with environment design, practice the two-minute rule, and use tracking and satisfaction to cement new behaviors. By the end of the course, learners should be able to identify leverage points in their daily contexts, craft implementation intentions, and produce a lightweight, evidence-based plan to continue habit growth beyond the classroom.
+
+        **Key Takeaways**
+        - Small, consistent actions compound into significant results when organized into repeatable systems.
+        - Designing cues and environments makes good habits obvious and reduces reliance on motivation.
+        - Identity-focused habits shift who you believe you are, producing more durable behavior change.
+
+        **Key Concepts**
+        - Habit Loop: cue, craving, response, reward — use it to analyze and redesign behaviors.
+        - Implementation Intentions and Habit Stacking: concrete plans and anchors that convert intentions into routines.
+        - Environment Design and Two-Minute Rule: simplify actions and reduce friction to increase adherence.
+
+        **Key Terms**
+        - **Habit Loop**: The four-stage model (cue, craving, response, reward) explaining habit formation.
+        - **Implementation Intention**: A specific plan that links a situational cue to a concrete action.
+        - **Habit Stacking**: Attaching a new habit to an existing routine to increase adherence.
+        - **Identity-Based Habit**: Habit change strategy focused on who you wish to become, not just outcomes.
+
+        ## Week-by-Week Summary
+        #### **Week 1**
+        Introduce the habit loop and identity-based habits while establishing baseline awareness using a habit scorecard. Students identify one small habit to build and begin daily logging to observe cues and routines.
+
+        #### **Week 2**
+        Focus on the first two laws: make cues obvious and make habits attractive. Students audit environments, practice temptation bundling, and redesign cues to increase habit initiation.
+
+        #### **Week 3**
+        Practice the latter two laws: make habits easy and satisfying with the two-minute rule, habit shaping, and tracking. Learners design simple trackers and experiment with immediate rewards.
+
+        #### **Week 4**
+        Integrate all four laws into systems, troubleshoot streaks and setbacks, and translate habits into identity shifts. The capstone project is a measurable, sustainable habit plan with documented progress and next steps.
+    - lesson_id: 0c
+      title: "Keys — Atomic Habits: Core Topics, Terms, and Concepts"
+      course: |
+        ## Overview
+        This Keys document condenses the essential topics, terms, and concepts students must master to apply Atomic Habits across four weeks. It highlights the mental models and practical vocabulary that recur throughout the course: the habit loop (cue, craving, response, reward), the four laws of behavior change (make it obvious, attractive, easy, satisfying), identity-based habit framing, environment design, and measurement strategies like habit tracking and the two-minute rule. Use this guide as a quick reference to locate where ideas appear in the syllabus and to anchor retrieval practice during study and teaching sessions.
+
+        **Key Takeaways**
+        - Distill behavior change into modular rules: cue, craving, response, reward for targeted interventions.
+        - Small, repeated improvements become durable when linked to identity and supported by environment design.
+        - Make habits obvious, attractive, easy, and satisfying to increase initiation and long-term maintenance.
+
+        **Key Concepts**
+        - Habit Loop: Analyze or redesign behaviors by mapping cue, craving, response, and reward systematically.
+        - Implementation Intentions & Habit Stacking: Use specific plans and anchors to convert intention into repetition.
+        - Two-Minute Rule & Tracking: Lower startup friction and use immediate feedback to sustain early momentum.
+
+        **Key Terms**
+        - **Habit Loop**: The four-stage model (cue, craving, response, reward) used to analyze habit mechanics.
+        - **Implementation Intention**: A concrete plan linking a cue to a specific action (when/where/how).
+        - **Habit Stacking**: Attaching a new habit to an existing routine to increase reliability and automaticity.
+        - **Identity-Based Habit**: Framing change around who you wish to become instead of outcome-focused goals.
+
+        ## Topics
+        - Habit Loop (week 1; source: Atomic Habits — Introduction, ch.1–2): Practical mapping of everyday routines to cue/craving/response/reward.
+        - Four Laws of Behavior Change (weeks 2–3; source: ch.3–9): Make it obvious, attractive, easy, and satisfying — actionable design levers.
+        - Environment Design (week 2; course exercises): Reducing friction and shaping choice architecture in physical and digital spaces.
+        - Implementation Intentions & Habit Stacking (weeks 1–2; source: ch.4–5): Anchoring new behaviors to existing routines with precise plans.
+        - Two-Minute Rule & Habit Shaping (week 3; source: ch.6): Scaling down complexity to ensure consistent repetition and reduce resistance.
+        - Tracking, Rewards, and Reinforcement (week 3; course project): Using immediate, visible feedback to strengthen habit loops.
+        - Identity and Systems Thinking (week 4; course capstone): Shifting self-concept and designing systems rather than relying on willpower.
+
+        ## Terms
+        - Habit Loop — appears in Week 1 and throughout course readings (Atomic Habits: ch.1–2).
+        - Implementation Intention — highlighted in Week 1 and Week 2 exercises (practice in source chapters).
+        - Habit Stacking — introduced in Week 1 and used as a practical strategy in Week 2 tasks.
+        - Two-Minute Rule — taught in Week 3 and applied in the Week 3 drill and habit tracker.
+        - Environment Design — emphasized in Week 2 and referenced in the weekly assignment for behavior change.
+        - Identity-Based Habit — central theme in Week 1 and synthesized in Week 4 capstone work.
+
+        ## Concepts
+        - Analytical mapping: Turn subjective habit descriptions into objective habit-loop maps (use in Week 1 exercise and habit log).
+        - Implementation specificity: Write plans that specify cue, time, location, and initial action to bridge intention and action (Week 2 practice).
+        - Friction minimization: Reduce steps or decisions required to begin a habit—apply the two-minute rule to create momentum (Week 3).
+        - Reinforcement design: Pair immediate, intrinsic, or extrinsic rewards and tracking signals to make progress visible and satisfying (Week 3–4).
+        - Identity scaffolding: Phrase goals as identity statements ("I am the type of person who...") and create tiny rituals that support that identity (Week 1 and Week 4 capstone).
+        - System over goal orientation: Build routines and environment supports that reliably produce desired outcomes, rather than relying on one-off motivation (Week 4 synthesis).
+
+      sources:
+        - "James Clear — Atomic Habits (selected chapters: Introduction, ch.1–9)"
+        - "Supplementary articles on habit design, implementation intentions, and behavior change frameworks"
+    - lesson_id: 1
+      title: "Week 1 — Foundations: Habit Loop and Identity"
+      course: |
+        ## Overview
+        This week introduces the core mechanics of habit change from Atomic Habits: the habit loop (cue, craving, response, reward) and the idea of identity-based habits. Students will build baseline awareness by completing a habit scorecard, mapping one habit through the loop, and creating an identity statement to guide behavior. Activities emphasize small, specific actions and observing context so you can design tiny, repeatable habits that compound over time.
+
+        **Key Takeaways**
+        - Tiny habits repeated consistently produce large outcomes through gradual compounding over weeks and months.
+        - Focusing on identity (who you want to become) yields more durable change than only setting performance goals.
+        - Mapping cues and rewards reveals opportunities to make habits more obvious, attractive, easy, and satisfying.
+
+        **Key Concepts**
+        - The habit loop: cue triggers a craving, which prompts a response that provides a reward and reinforces behavior.
+        - Identity-based habits: change your beliefs about yourself and let actions follow from that new identity.
+        - Habit scorecard and small rituals: observe current behaviors and design tiny, specific actions to adopt consistently.
+
+        **Key Terms**
+        - **Cue**: The trigger in your environment that initiates a habit.
+        - **Craving**: The motivational state that drives you toward a response.
+        - **Response**: The actual behavior or habit you perform.
+        - **Reward**: The outcome that satisfies the craving and reinforces the habit.
+
+      sources:
+        - "James Clear, Atomic Habits — Introduction"
+        - "James Clear, Atomic Habits — Chapter 1: The Surprising Power of Atomic Habits"
+        - "James Clear, Atomic Habits — Chapter 2: How Your Habits Shape Your Identity"
+
+      questions_and_answers:
+        - Q: "What are the four parts of the habit loop?"
+          A: "Cue (trigger), Craving (motivation), Response (the habit/action), Reward (the satisfying outcome)."
+        - Q: "How does an identity-based approach to habits differ from outcome-based goals?"
+          A: "Identity-based approach focuses on becoming the type of person who performs the habit, making behavior a reflection of self-image rather than a one-time outcome."
+        - Q: "Why is starting with tiny habits effective?"
+          A: "Tiny habits reduce friction and resistance, increase consistency, and leverage compounding effects to build significant change over time."
+
+      exercises:
+        - name: "(Easy) Habit Scorecard Recall"
+          prompt: >
+            Without notes, list 6 daily habits you perform and classify each as positive, neutral,
+            or negative. Aim for honest, specific entries and complete this from memory.
+        - name: "(Medium) Identify and Map"
+          prompt: >
+            Choose one habit you want to change. Write the Cue, Craving, Response, and Reward for
+            that habit. Note context details (time, location, preceding action).
+        - name: "(Challenging) Identity Mapping"
+          prompt: >
+            Draft a short identity statement beginning with "I am the type of person who..." Then
+            propose three tiny rituals (15–60 seconds each) that align with and reinforce that
+            identity.
+
+      assignments:
+        - name: "7-Day Habit Log and Reflection"
+          description: >
+            Keep a habit log for seven consecutive days tracking cue, action/response, context, and
+            outcome for the habit you selected. After seven days, submit a 300–500 word reflection
+            describing observed patterns, triggers, successes, and what you will adjust next.
+    - lesson_id: 2
+      title: "Week 2 — Make It Obvious, Make It Attractive"
+      course: |
+        ## Overview
+        This week focuses on the first two laws of behavior change from Atomic Habits: make cues obvious and make habits attractive. You will learn practical techniques for designing environments that surface helpful cues and for increasing habit appeal through temptation bundling and cognitive reframing. Emphasis is on noticing how small, visible tweaks and paired rewards shift motivation and lower friction for repetition.
+
+        Work through short retrieval practice and applied exercises to test these ideas in your own space. By the end of the week you'll have redesigned at least one cue in your environment and a concrete plan to sustain a new attractive habit for several days.
+        **Key Takeaways**
+        - Understand cues to intentionally shape behavior through environment design and visible prompts.
+        - Use temptation bundling to increase habit attractiveness by pairing with enjoyable, gated activities.
+        - Small obvious environmental changes reduce decision friction and boost consistent repetition daily.
+        **Key Concepts**
+        - Law One: Make cues obvious by using visual placement, habit stacking, and implementation intentions.
+        - Law Two: Make habits attractive by leveraging temptation bundling and cognitive reframing to raise cravings.
+        - Environment design focuses on shaping cues, reducing friction, and promoting desired behaviors effortlessly.
+        **Key Terms**
+        - **Cue**: any trigger in the environment or internal state that initiates a habit loop.
+        - **Temptation bundling**: pairing a habit you should do with an activity you want to do.
+        - **Environment design**: arranging physical or digital spaces to promote desired cues and remove friction.
+
+      sources:
+        - "James Clear, Atomic Habits, Chapters 3–5 (Make It Obvious; Make It Attractive)"
+        - "Atomic Habits website — summaries and strategies (jamesclear.com)"
+        - "Supplemental article: \"Temptation Bundling\" examples and research summaries"
+
+      questions_and_answers:
+        - Q: "What are the first two laws of behavior change and how do they relate?"
+          A: "The first two laws are: (1) Make it obvious — surface cues in the environment; (2) Make it attractive — increase craving via bundling or reframing. Together they ensure a clear trigger and sufficient motivation to start the habit."
+        - Q: "How can you implement temptation bundling in daily life?"
+          A: "Identify an activity you avoid and an activity you enjoy, then create a rule that the enjoyable activity occurs only when you perform the target habit. Schedule brief, consistent pairings and keep them simple for one week to test effectiveness."
+        - Q: "What are three simple environment design tactics to make cues obvious?"
+          A: "Place items in plain sight (visual placement), stack a new habit onto an existing routine (habit stacking), and create clear implementation intentions (when/where you'll perform the habit)."
+
+      exercises:
+        - name: "Environment Scan (Easy — Retrieval)"
+          prompt: >
+            Without notes, from memory: 1) List four environmental cues in your home or workspace
+            that currently trigger a habit. 2) Write the four elements of the habit loop (cue,
+            craving, response, reward). 3) Name one tiny ritual you use and state which identity it
+            supports. Time yourself for 10 minutes.
+        - name: "Temptation Bundling Plan (Medium)"
+          prompt: >
+            Choose one habit you avoid and one enjoyable activity. Create a one-week schedule
+            pairing them (when, where, and for how long). Define the cue, the attractive reward, and
+            how you will gate the enjoyable activity until the habit is completed.
+        - name: "Cue Redesign (Challenging)"
+          prompt: >
+            Select a daily routine with a negative cue. Sketch the current (before) sequence and
+            then redesign it: remove or hide the negative cue and add an obvious positive cue.
+            Describe the changes, expected friction reduction, and how you'll measure success for
+            five days.
+
+      assignments:
+        - name: "Environment Change Implementation"
+          description: >
+            Implement one environment change (e.g., relocate an item, create a visible cue, or set
+            up a temptation bundle) and practice the associated habit for five days. Each day record
+            adherence (yes/no), friction points encountered, and observations about motivation.
+            After five days, produce a short improvement plan listing at least three adjustments to
+            increase cue clarity and attractiveness.
+    - lesson_id: 3
+      title: "Make It Easy, Make It Satisfying — Two-Minute Rules, Shaping, Tracking, and Reinforcement"
+      course: |
+        ## Overview
+        This week focuses on the latter two laws of behavior change: making habits easy to perform and making them immediately satisfying. You will practice the Two-Minute Rule to shrink starting friction, use habit shaping to gradually expand behavior, and design tracking and reinforcement systems that provide immediate feedback. Emphasis is on environment design and temptation bundling as practical tools to reduce effort and increase reward, plus hands-on experiments to test how small adjustments to cues, context, and rewards affect consistency and motivation.
+
+        **Key Takeaways**
+        - Reduce starting friction by shrinking a habit to a simple two-minute version to ensure repetition.
+        - Shape habits by gradually increasing difficulty after consistent small wins to build momentum.
+        - Use tracking and immediate reinforcement to make progress visible and rewards predictable.
+
+        **Key Concepts**
+        - Two-Minute Rule: start any habit as a tiny, easy action to overcome procrastination.
+        - Habit Shaping: progressively expand a behavior in small increments after consistent practice.
+        - Immediate Reinforcement: pair habits with satisfying feedback to strengthen repetition and reward.
+
+        **Key Terms**
+        - **Two-Minute Rule**: Begin new habits by doing them for two minutes or less to ensure consistency.
+        - **Habit Shaping**: Gradually increasing the scope of a behavior from tiny beginnings to full routines.
+        - **Reinforcement**: Any immediate positive outcome or feedback that increases the likelihood of repeating a behavior.
+
+      sources:
+        - "James Clear, Atomic Habits, Chapters 6–9 (Make It Easy; Make It Satisfying)"
+        - "James Clear, \"The Two-Minute Rule\" (jamesclear.com)"
+        - "James Clear, \"How to Build Better Habits\" (jamesclear.com)"
+
+      questions_and_answers:
+        - Q: "What is the Two-Minute Rule and why is it effective?"
+          A: "The Two-Minute Rule requires reducing a habit to a simple two-minute version to remove starting friction; it's effective because it lowers the barrier to begin, increases repetition, and builds identity through consistent tiny wins."
+        - Q: "How does habit shaping differ from simply forcing longer sessions immediately?"
+          A: "Habit shaping incrementally increases a behavior after reliable small successes, whereas forcing long sessions risks friction, resistance, and burnout that break consistency and undermine progress."
+        - Q: "Why is immediate reinforcement important for habit formation?"
+          A: "Immediate reinforcement provides quick, satisfying feedback that links the response to reward, strengthening the habit loop and increasing the probability of repetition."
+
+      exercises:
+        - name: "Two Retrieval Questions (Easy)"
+          prompt: >
+            Without notes, recall and write brief definitions for: 1) Environment design, and 2)
+            Temptation bundling. Then describe one concrete example from your life where you could
+            apply each concept. Do this from memory, timed to five minutes.
+        - name: "Habit Tracking Design (Medium)"
+          prompt: >
+            Design a simple habit-tracking system (paper calendar, checklist, or app). Choose one
+            two-minute habit to track and log it for five days. Record daily completion and a one-
+            sentence note about motivation or friction each day. After five days, summarize trends
+            and any pattern changes.
+        - name: "Reinforcement Strategy (Challenging)"
+          prompt: >
+            Create a personalized reward schedule that reinforces progress without undermining your
+            goals. Include: an initial two-minute start point, three progressive steps to scale the
+            habit, specific immediate rewards for each step, and a plan to prevent rewards from
+            becoming counterproductive. Pilot this schedule for seven days and report outcomes.
+
+      assignments:
+        - name: "7-Day Two-Minute Scaling Experiment"
+          description: >
+            Run a 7-day experiment starting with a two-minute version of a habit and progressively
+            scale practice into longer sessions where appropriate. Collect daily data (completion,
+            duration, context, and immediate reward). Submit your dataset plus a 400–600 word
+            analysis describing barriers encountered, wins achieved, how environment design or
+            temptation bundling was used, and next steps for habit shaping.
+    - lesson_id: 4
+      title: "Consolidation, Social Context, and Long-Term Maintenance"
+      course: |
+        ## Overview
+        This week emphasizes consolidation and long-term maintenance of habits you built in earlier weeks. We'll troubleshoot plateaus, examine how social context shapes behavior, and design systems for continuous improvement that fit your identity and life goals. You will practice integrating habits into routines, recalibrating rewards, and planning for relapse and scaling. Synchronous check-ins (30–45 minutes) will focus on peer presentations and feedback; asynchronous work (3–5 hours) includes the final portfolio and refinement of maintenance strategies.
+
+        **Key Takeaways**
+        - Small adjustments in context and reinforcement prevent plateaus and sustain habit momentum over months.
+        - Social environment and group identity strongly influence habit adoption and long-term adherence.
+        - Maintenance requires systems: tracking, scheduled reviews, relapse protocols, and planned scaling steps.
+
+        **Key Concepts**
+        - Identity reinforcement anchors behavior by linking habits to who you want to become, increasing consistency.
+        - Troubleshooting plateaus uses measurement, reward tweaks, and habit shaping to restore progress.
+        - Social context leverages norms, accountability, and shared rituals to amplify habit persistence.
+
+        **Key Terms**
+        - **Plateau**: A period when habit progress stalls despite consistent effort.
+        - **Relapse Protocol**: A predefined plan for recovering quickly after a lapse in routine.
+        - **Scaling**: Gradual expansion of habit scope or intensity after sustained consistency.
+
+      sources:
+        - "Clear, J. (2018). Atomic Habits. Chapters 10–20 and Conclusion."
+        - "Clear, J. (Blog). Articles on identity-based habits and habit maintenance. jamesclear.com"
+        - "Fogg, B. J. (2020). Tiny Habits: The Small Changes That Change Everything. (selected chapters on maintenance)"
+        - "Relevant research summaries on social norms and behavior change (peer-reviewed articles overview)"
+
+      questions_and_answers:
+        - Q: "What should I do when my habit progress stalls for several weeks?"
+          A: "Diagnose with data: check cues, simplify the action (Two-Minute Rule), adjust rewards, and reintroduce small, frequent repetitions to regain momentum."
+        - Q: "How does social context affect habit maintenance?"
+          A: "Social context sets norms and expectations: supportive groups make cues obvious and attractive, while unsupportive environments add friction and competing cues."
+        - Q: "What belongs in a relapse protocol?"
+          A: "A relapse protocol includes quick recovery steps, a brief review of triggers, immediate resumption plan, and adjustments to reduce future risk."
+
+      exercises:
+        - name: "(Easy) Social Cue Reflection (Retrieval)"
+          prompt: >
+            Without notes, list three social situations that influence your habits and indicate
+            whether they support or undermine you. Then recall and write definitions from memory for
+            three concepts: Habit loop (cue, craving, response, reward), Identity-based habit
+            formation, and Two-Minute Rule. Spend no more than 15 minutes.
+        - name: "(Medium) Habit Integration Plan (Medium)"
+          prompt: >
+            Create a 30-day plan that integrates one new habit with your existing routines. Include:
+            specific cues tied to current routines, a Two-Minute starter version, tracking method,
+            expected obstacles and at least three mitigation tactics, and checkpoints every seven
+            days to evaluate progress.
+        - name: "(Challenging) Maintenance Playbook (Challenging)"
+          prompt: >
+            Draft a one-page maintenance playbook covering: relapse protocol, reward calibration
+            strategy, scaling timeline for six months, social accountability arrangements, and
+            metrics to monitor. Include examples of triggers and corrective actions for two likely
+            failure scenarios.
+
+      assignments:
+        - name: "Final Project — Habit-Change Portfolio"
+          description: >
+            Prepare a polished habit-change portfolio (750–1,000 words or slide deck for
+            presentation). Include baseline measures, interventions applied, two weeks of tracking
+            data, analysis of what worked and why, reflection on identity shifts, and a detailed
+            six-month maintenance plan. Be ready to present in the synchronous session and
+            incorporate peer feedback. Submission should show measurable progress and a clear system
+            for sustaining and scaling the habit.
