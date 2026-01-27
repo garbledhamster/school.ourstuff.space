@@ -1,321 +1,1219 @@
 course:
-  id: "0003"
+  id: "aristotle-s-nicomachean-ethics-20260127"
   title: "Aristotle's Nicomachean Ethics"
   description: >
-    A seminar-style reading course through all ten books of Aristotle's *Nicomachean Ethics*. Learners will practice close reading,
-    argument reconstruction, and reflection on virtue, happiness, and friendship while applying Aristotle's insights to modern life.
+    This course provides a comprehensive study of Aristotle’s *Nicomachean Ethics*, guiding
+    students through his systematic account of human happiness (*eudaimonia*), moral virtue,
+    rational deliberation, justice, friendship, pleasure, and the highest form of human
+    flourishing over a fourteen-week semester. The course begins in Weeks 1–2 by
+    establishing Aristotle’s foundational claims about the purpose of human life and the
+    nature of moral virtue through close study of Books I–II, then moves in Weeks 3–4 to
+    moral responsibility, voluntary action, and character formation in Books III–IV. In
+    Weeks 5–6, students examine justice, law, and the social dimensions of ethics in Book V,
+    followed in Weeks 7–8 by an in-depth exploration of intellectual virtue and practical
+    wisdom (*phronesis*) in Book VI. Week 9 focuses on self-control, weakness of will, and
+    the psychology of moral struggle in Book VII, while Weeks 10–11 address Aristotle’s
+    extended treatment of friendship and its central role in a flourishing life through
+    Books VIII–IX. The course concludes in Weeks 12–13 with Aristotle’s final synthesis on
+    pleasure, contemplation, and the highest good in Book X, and culminates in Week 14 with
+    integrative review and philosophical synthesis. Throughout the semester, students engage
+    in close textual analysis, guided discussion, and applied reflection in order to
+    understand Aristotle’s ethical system as a coherent philosophical vision that connects
+    personal character development, rational judgment, social responsibility, and the
+    pursuit of a meaningful and fulfilled human life.
   lessons:
     - lesson_id: 0a
-      title: "Course Outline"
+      title: "Course Outline — Aristotle's Nicomachean Ethics (14-week Semester)"
       course: |
-        This 10-week plan takes you through *Nicomachean Ethics* with structured reading, guiding questions, and practical exercises.
-        Each week lists primary texts, companion prompts, and a short writing assignment to internalize Aristotle's arguments.
+        ## Overview
+        This course is a close, systematic study of Aristotle’s Nicomachean Ethics across a fourteen-week semester. Students will read primary passages in translation, analyze Aristotle’s arguments, and practice applying Aristotelian concepts to cases of moral choice, civic responsibility, and personal development. The course emphasizes textual interpretation, conceptual clarity, and philosophical synthesis: how Aristotle connects human action, character, reason, and community to articulate a unified vision of the good life (eudaimonia).
 
-        ### Weekly Schedule
+        The structure moves from foundations (Books I–II) through responsibility and character (Books III–IV), social ethics and justice (Book V), intellectual virtues and practical wisdom (Book VI), psychology of moral struggle (Book VII), friendship and social goods (Books VIII–IX), and a final synthesis on pleasure and contemplation (Book X), finishing with integrative review. Weekly work combines reading, guided exercises, discussion prompts, and a substantive assignment to build interpretive and argumentative skill.
 
-        | Week | Books & Sections | Focus | Exercises |
-        |------|------------------|-------|-----------|
-        | 1 | Book I (1–13) | The human good & eudaimonia | Define the “function” argument; list three candidate goods and why Aristotle rejects them. |
-        | 2 | Book II (1–9) | Moral virtue & the mean | Chart virtues and their vices; journal two “mean” decisions you made this week. |
-        | 3 | Book III (1–12) | Voluntary action, courage, temperance | Identify voluntary vs. involuntary cases; outline Aristotle’s account of courage. |
-        | 4 | Book IV (1–9) | Character virtues | Summarize generosity, magnificence, magnanimity, good temper, wit; note modern parallels. |
-        | 5 | Book V (1–12) | Justice (general & particular) | Map types of justice; reconstruct the proportionality argument. |
-        | 6 | Book VI (1–13) | Intellectual virtues & prudence | Contrast epistēmē, technē, phronēsis, sophia; draft a “phronēsis checklist.” |
-        | 7 | Book VII (1–11) | Continence, incontinence, pleasure | Explain akrasia; record one temptation case and your reasoning. |
-        | 8 | Books VIII–IX | Friendship (philia) | Compare utility, pleasure, and virtue friendships; plan one “virtuous friendship” action. |
-        | 9 | Book X (1–8) | Pleasure revisited & the contemplative life | Evaluate the argument for contemplation as highest happiness. |
-        | 10 | Book X (9) & Synthesis | Legislation & habituation | Write a personal ethics “legislation” plan guided by Aristotle’s method. |
+        **Key Takeaways**
+        - Aristotle locates the highest human good in activity of the rational soul in accord with virtue (eudaimonia as flourishing).
+        - Moral virtue is a learned, habituated mean between extremes, cultivated through practice and reason.
+        - Practical wisdom (phronesis) integrates universal understanding and particular deliberation for right action.
 
-        ### How to Work Each Week
-        1. **Read the assigned sections** slowly; mark key terms (virtue, mean, choice, prudence, friendship, contemplation).
-        2. **Answer the guiding questions** in writing before discussion.
-        3. **Complete the weekly exercise** (practical application or argument reconstruction).
-        4. **Submit a short reflection (200–300 words)** connecting Aristotle’s claims to a lived experience.
+        **Key Concepts**
+        - Eudaimonia: a lifelong activity expressing excellence of the rational soul informed by moral and intellectual virtue.
+        - Virtue as a mean: moral character achieved by habituation and reasoned choice between vices of excess and deficiency.
+        - Phronesis (practical wisdom): intellectual virtue that guides moral deliberation in particular contexts.
 
+        **Key Terms**
+        - **Eudaimonia**: flourishing or human well-being as the highest practical good.
+        - **Arete (Virtue)**: excellence of character or function, expressed in stable dispositions toward right action.
+        - **Phronesis**: practical wisdom enabling right deliberation about means to goods in human life.
+        - **Voluntary Action**: action performed with knowledge and without external compulsion; central to moral responsibility.
+
+        COURSE GOALS
+        - Develop close-reading skills and argumentative clarity in interpreting Aristotle’s texts.
+        - Understand and explain Aristotle’s account of the highest good, moral and intellectual virtue, and practical reasoning.
+        - Apply Aristotelian ethical principles to contemporary moral and civic questions.
+        - Compare Aristotle’s ethical psychology with modern accounts of moral agency and weakness of will.
+        - Cultivate students’ ability to write clear, well-structured analytic essays on ethical theory.
+
+        WEEKLY BREAKDOWN
+
+        #### **Week 1**
+        Reading: Primary — Aristotle, Nicomachean Ethics, Book I (recommended translation: Barnes/Oxford or Ross). Secondary — brief introductory overview on Aristotle's life and method (1–2 pages).
+        Focus: Introduce Aristotle’s teleological methodology and the question of the highest good; examine the opening argument that every craft and action aims at some good and the claim that the highest good is an activity of the soul in conformity with excellence.
+        Exercises:
+        - (Easy) Identify and summarize Aristotle’s characterization of the highest good in Book I, section 1–7 (recall without notes).
+        - (Medium) Short close-reading: trace Aristotle’s argument from the multiplicity of ends to the idea of a final end; locate premises and conclusion.
+        - (Challenging) Compose a short paragraph arguing for or against the plausibility of Aristotle’s claim that politics is the master art concerning the highest good.
+        Weekly Assignment: 800–1000 word essay analyzing Book I’s account of the good: what counts as evidence that eudaimonia is activity rather than a mere state?
+        ---
+        #### **Week 2**
+        Reading: Primary — Aristotle, Nicomachean Ethics, Book II. Secondary — selections on virtue as habituation (short scholarly excerpt).
+        Focus: Distinguish moral from intellectual virtue; explore Aristotle’s thesis that moral virtues are formed by habituation, and consider the role of pleasure and pain in moral education.
+        Exercises:
+        - (Easy) List and define three examples of moral virtues and their corresponding vices from Book II.
+        - (Medium) Analyze Aristotle’s role for pleasure and pain in character formation—how does he use examples to support his claim?
+        - (Challenging) Develop an argument evaluating whether modern psychological findings about habit formation support or undermine Aristotle’s habituation model.
+        Weekly Assignment: Prepare a 900–1,100 word comparative analysis of moral habituation vs. innate moral traits, using Book II evidence and one contemporary source.
+        ---
+        #### **Week 3**
+        Reading: Primary — Nicomachean Ethics, Book III (sections on voluntary action, choice, and responsibility). Secondary — short commentary on voluntariness.
+        Focus: Analyze voluntary and involuntary action, the nature of choice (prohairesis), and the relation between deliberation and moral praise or blame.
+        Exercises:
+        - (Easy) Define and give examples of voluntary, involuntary, and non-voluntary actions in Aristotle’s terms.
+        - (Medium) Close-read the distinction between choice and wish; explain why choice requires deliberation.
+        - (Challenging) Case study: evaluate moral responsibility in a complex hypothetical using Aristotle’s criteria for voluntariness.
+        Weekly Assignment: 800–1,000 word paper applying Aristotle’s analysis of voluntary action to a contemporary legal or moral case (e.g., negligence, coerced action).
+        ---
+        #### **Week 4**
+        Reading: Primary — Nicomachean Ethics, Book IV (specific virtues: courage, temperance, liberality, magnificence, magnanimity). Secondary — notes on moral exemplars.
+        Focus: Study particular moral virtues as means between extremes; examine how Aristotle characterizes virtues like courage and temperance and their social expressions.
+        Exercises:
+        - (Easy) Match five virtues from Book IV to their respective excess/deficiency vices.
+        - (Medium) Analyze Aristotle’s treatment of magnanimity and its relation to honor and self-worth.
+        - (Challenging) Prepare a defense or critique of Aristotle’s social assumptions—does his account presuppose particular class structures?
+        Weekly Assignment: 1,000–1,200 word essay on one virtue from Book IV, explaining its mean and relevance to modern moral life.
+        ---
+        #### **Week 5**
+        Reading: Primary — Nicomachean Ethics, Book V (justice). Secondary — selected readings on distributive and corrective justice.
+        Focus: Examine Aristotle’s taxonomy of justice, distinctions among political, legal, distributive, and corrective justice, and the role of proportionality.
+        Exercises:
+        - (Easy) Define distributive and corrective justice with Aristotle’s examples.
+        - (Medium) Analyze Aristotle’s proportionality principle and apply it to a sample allocation problem.
+        - (Challenging) Debate whether Aristotle’s account of justice can ground modern theories of equality and rights.
+        Weekly Assignment: 1,000–1,200 word critical analysis comparing Aristotle’s justice categories with a modern theory of justice.
+        ---
+        #### **Week 6**
+        Reading: Primary — Finish Book V and supplementary case readings on law and equity (epieikeia).
+        Focus: Consider law, equity, and the judge’s role; study Aristotle’s view on how laws interact with particulars and the need for equitable correction of rigid rules.
+        Exercises:
+        - (Easy) Summarize the difference between law and equity (epieikeia) in a short paragraph.
+        - (Medium) Apply Aristotle’s notion of equity to a legal scenario where the law produces a manifestly unfair outcome.
+        - (Challenging) Argue how Aristotle’s judicial insights bear on modern approaches to discretionary justice and precedent.
+        Weekly Assignment: 900–1,100 word case note applying epieikeia to a contemporary legal controversy.
+        ---
+        #### **Week 7**
+        Reading: Primary — Nicomachean Ethics, Book VI (intellectual virtues: techne, episteme, phronesis, sophia). Secondary — readings on phronesis in practical contexts.
+        Focus: Distinguish types of intellectual virtue and focus on phronesis’s unique role in moral deliberation and action; explore how understanding and practical reasoning interact.
+        Exercises:
+        - (Easy) List the main intellectual virtues and give a brief definition of phronesis.
+        - (Medium) Analyze a short dialogue that tests phronesis—how does practical wisdom adjudicate between competing goods?
+        - (Challenging) Compose an argumentative piece on whether phronesis is teachable and how it might be cultivated today.
+        Weekly Assignment: 1,000–1,200 word essay explaining the role of phronesis in linking moral knowledge to action, with textual evidence from Book VI.
+        ---
+        #### **Week 8**
+        Reading: Primary — Continue Book VI and selected secondary texts on educative practices for intellectual virtues.
+        Focus: Deepen study of intellectual virtue pedagogy, the relation between experience and deliberation, and the formation of practical judgment in community contexts.
+        Exercises:
+        - (Easy) Describe a classroom or apprenticeship practice that cultivates phronesis according to Aristotle.
+        - (Medium) Evaluate the balance between theoretical knowledge and experience in forming practical judgment.
+        - (Challenging) Design a short syllabus or seminar activity aimed at cultivating phronesis among students.
+        Weekly Assignment: Create a 1,200–1,500 word instructional plan showing how to teach practical wisdom through applied exercises and reflection.
+        ---
+        #### **Week 9**
+        Reading: Primary — Nicomachean Ethics, Book VII (self-control, akrasia, pleasure). Secondary — contemporary psychological perspectives on weakness of will.
+        Focus: Investigate Aristotle’s account of akrasia (weakness of will) and self-control, and his psychological explanation of irrational action and pleasure’s role in motivation.
+        Exercises:
+        - (Easy) Define akrasia and distinguish it from vice and deliberative error.
+        - (Medium) Analyze Aristotle’s explanation of why someone acts against their better judgment.
+        - (Challenging) Critically assess Aristotle’s psychological model in light of modern empirical findings about impulse and decision-making.
+        Weekly Assignment: 1,000–1,300 word comparative essay evaluating Aristotle’s akrasia against a modern psychological account.
+        ---
+        #### **Week 10**
+        Reading: Primary — Nicomachean Ethics, Book VIII (friendship: types and value). Secondary — readings on social goods and interpersonal ethics.
+        Focus: Outline Aristotle’s taxonomy of friendship (utility, pleasure, virtue) and the moral importance of friendships for individual flourishing and political life.
+        Exercises:
+        - (Easy) Identify and give examples of the three types of friendship Aristotle describes.
+        - (Medium) Explore how friendship contributes to the development of moral character and virtuous habits.
+        - (Challenging) Argue for or against the claim that virtuous friendships are prerequisites for political stability.
+        Weekly Assignment: 1,000–1,200 word exploration of the interplay between personal friendship and civic friendship in Aristotle’s ethics.
+        ---
+        #### **Week 11**
+        Reading: Primary — Nicomachean Ethics, Book IX (friendship continued; self-love and community). Secondary — critiques and expansions on the social dimensions of friendship.
+        Focus: Continue friendship analysis, examine how Aristotle reconciles self-love with altruism, and consider friendship’s role in political friendships and the common good.
+        Exercises:
+        - (Easy) Summarize Aristotle’s view on proper self-love and its connection to friendship.
+        - (Medium) Compare and contrast private friendships and political friendships in Aristotle’s account.
+        - (Challenging) Develop a policy brief arguing how Aristotle’s view of friendship could inform contemporary civic design (e.g., community-building initiatives).
+        Weekly Assignment: 1,200–1,500 word paper analyzing the civic implications of Aristotle’s account of friendship.
+        ---
+        #### **Week 12**
+        Reading: Primary — Nicomachean Ethics, Book X (pleasure and the best life, contemplation). Secondary — selections contrasting active life vs. contemplative ideal.
+        Focus: Examine Aristotle’s argument that contemplative activity (theoria) is the highest form of happiness and how pleasure relates to virtuous activity.
+        Exercises:
+        - (Easy) Briefly state Aristotle’s reasons for valuing contemplation as the highest activity.
+        - (Medium) Analyze how Aristotle reconciles pleasure with moral virtue and the activity of the soul.
+        - (Challenging) Critique or defend the priority Aristotle gives to contemplative life in the context of modern pluralistic values.
+        Weekly Assignment: 1,200–1,400 word critical essay on whether Aristotle’s contemplative ideal is compatible with a modern active, civic life.
+        ---
+        #### **Week 13**
+        Reading: Primary — Finish Book X and relevant cross-references elsewhere in NE. Secondary — short comparative pieces on human flourishing.
+        Focus: Synthesize the course’s main themes: unity of moral and intellectual virtues, the role of practical wisdom, and the social prerequisites for flourishing.
+        Exercises:
+        - (Easy) List three ways Aristotle links intellectual and moral virtues across the text.
+        - (Medium) Produce a concept map showing how eudaimonia, virtue, phronesis, and friendship interrelate.
+        - (Challenging) Write a short integrative paper defending an interpretation of Aristotle’s highest good that unifies Books I–X.
+        Weekly Assignment: 1,200–1,500 word integrative essay synthesizing key arguments of the Nicomachean Ethics.
+        ---
+        #### **Week 14**
+        Reading: Review key passages across Books I–X; compile notes and supplementary secondary readings for final synthesis.
+        Focus: Integrative review and oral/written synthesis; prepare for final presentations or essays that connect textual analysis to contemporary ethical questions.
+        Exercises:
+        - (Easy) Recap the central thesis of the Nicomachean Ethics in a concise paragraph from memory.
+        - (Medium) Peer-review session: exchange draft syntheses and provide structured feedback focused on argument and evidence.
+        - (Challenging) Final oral presentation (10–12 minutes) tying an Aristotelian insight to a contemporary ethical issue.
+        Weekly Assignment: Final project — 2,000–2,500 word essay or equivalent project presenting a sustained interpretation and application of Aristotle’s ethical vision; include close textual readings and secondary engagement.
     - lesson_id: 0b
-      title: "Guiding Questions by Book"
+      title: "Summaries — Aristotle's Nicomachean Ethics (Course Summary and Weekly Summaries)"
       course: |
-        Use these prompts alongside the readings to steer note-taking and discussion.
+        ## Overview
+        This course is a close, systematic reading of Aristotle’s Nicomachean Ethics across fourteen weeks, combining sustained textual interpretation with conceptual analysis and applied reflection. Students move from Aristotle’s account of the highest human good and the nature of moral virtue to issues of responsibility, social ethics, intellectual virtue, moral psychology, friendship, and finally pleasure and contemplation, developing skills in close reading, argument reconstruction, and philosophical synthesis.
 
-        #### Book I — Happiness & the Function Argument
-        - What does Aristotle mean by the “chief good,” and why must it be **complete** and **self-sufficient**?
-        - Reconstruct the function (ergon) argument step by step. Where are its vulnerable points?
-        - How does the distinction between **living**, **perceiving**, and **rational activity** ground the definition of happiness?
+        **Key Takeaways**
+        - Eudaimonia is activity of the rational soul in accord with excellence, realized across a whole life.
+        - Moral virtue is acquired by habituation and guided by reason toward a mean between extremes.
+        - Practical wisdom (phronesis) integrates universal understanding with particular deliberation for right action.
 
-        #### Book II — Virtue as Habit and the Mean
-        - Why are virtues **states** rather than feelings or capacities?
-        - How does habituation train perception of the mean? What role do pleasure and pain play?
-        - Pick two virtues (e.g., courage, generosity) and plot the excess/deficiency mean for each.
+        **Key Concepts**
+        - Eudaimonia as activity: flourishing as ongoing excellence, not a mere state or feeling.
+        - Virtue as a mean: moral excellence as a reasoned disposition between excess and deficiency.
+        - Phronesis (practical wisdom): intellectual virtue enabling sound deliberation about human goods.
 
-        #### Book III — Choice, Deliberation, Courage, Temperance
-        - How does Aristotle distinguish **choice** (prohairesis) from wish or impulse?
-        - When is an act voluntary, mixed, or involuntary? What examples test the boundaries?
-        - What makes courage distinct from rashness and cowardice? How does temperance regulate bodily pleasures?
+        **Key Terms**
+        - **Eudaimonia**: flourishing or human well-being understood as activity in accordance with virtue.
+        - **Arete (Virtue)**: moral or intellectual excellence of character or function.
+        - **Phronesis**: practical wisdom for choosing means to ends in particular circumstances.
+        - **Akrasia (Weakness of Will)**: the phenomenon of acting against one’s better judgment through overpowering desire.
 
-        #### Book IV — The Finer-Grained Virtues
-        - What unifies generosity, magnificence, and magnanimity? How do they relate to honor and wealth?
-        - How do wit and friendliness express virtue in social interaction? Where is the mean for anger?
+        ## Course Summary
+        This fourteen-week seminar pursues a sustained engagement with Aristotle’s Nicomachean Ethics, emphasizing both close textual study and conceptual reconstruction. Beginning with Books I–II, we situate Aristotle’s project by asking what counts as the highest good and how moral virtue is formed through habituation and rational choice. The middle portion (Books III–VI) treats moral responsibility, voluntary action, character, justice, and intellectual virtues, with special attention to phronesis as the link between moral perception and action. Book VII’s psychological analyses deepen our understanding of akrasia, self-control, and pleasure; Books VIII–IX explore friendship as an essential social and moral good that shapes character and civic life. Book X synthesizes earlier claims by weighing pleasure, the contemplative life, and the unity of the good. Pedagogically, the course pairs close readings with discussion prompts, analytical exercises, and extended writing to develop interpretive accuracy and argumentative clarity so students can articulate and assess Aristotle’s ethical vision in historical and contemporary contexts.
 
-        #### Book V — Justice
-        - Differentiate **universal justice** (lawfulness) from **particular justice** (distributive and corrective).
-        - How does geometric vs. arithmetic proportion structure Aristotle’s account of fairness?
-        - What role do equity and the equitable person play when law is too general?
+        ## Week-by-Week Summaries
+        #### **Week 1**
+        Reading: Book I. Focus: teleology and the search for the highest good. Summary: We introduce Aristotle’s teleological method and his argument that every art and action aims at some good, culminating in the claim that the highest good is activity of the soul in accordance with excellence; students practice locating premises and reconstructing the argument’s structure.
 
-        #### Book VI — Intellectual Virtues
-        - Contrast **prudence (phronēsis)** with **wisdom (sophia)**; why is prudence essential to moral virtue?
-        - How do **nous**, **technē**, and **epistēmē** differ in their relation to universals and particulars?
-        - Why can’t someone be prudently akratic? What does this imply about practical reason?
+        #### **Week 2**
+        Reading: Book II. Focus: moral virtue as habituation. Summary: Close reading of Aristotle’s account of how virtues arise through repeated action and rational training, distinguishing moral virtue from intellectual virtue and preparing students to evaluate the plausibility of the mean doctrine.
 
-        #### Book VII — Continence & Pleasure
-        - What is Aristotle’s diagnosis of **akrasia** (incontinence)? How does it differ from vice?
-        - Why does he reject simple hedonism yet defend pleasure’s role in the good life?
+        #### **Week 3**
+        Reading: Book III (sections on voluntary action, choice, responsibility). Focus: agency and deliberation. Summary: We examine Aristotle’s distinctions among voluntary, involuntary, and mixed actions, his account of choice (prohairesis), and the relation between deliberation and moral responsibility.
 
-        #### Books VIII–IX — Friendship
-        - Distinguish friendships of **utility**, **pleasure**, and **virtue**. Why is the third the most stable?
-        - How do friendships mirror the self? What is the role of goodwill and reciprocity?
-        - Can unequal friendships (e.g., parent–child) still be just? How?
+        #### **Week 4**
+        Reading: Book IV (selected virtues). Focus: cataloguing moral virtues. Summary: Reading emphasizes particular moral virtues (e.g., courage, temperance, liberality), showing how each exemplifies the mean and how context and perception shape virtuous response.
 
-        #### Book X — Pleasure & Contemplation
-        - How does Aristotle refine his account of pleasure? Why link it to **activity** rather than static states?
-        - Why is contemplative activity proposed as the highest happiness? Do you agree?
-        - How should legislators cultivate virtue in citizens, and what limits does Aristotle note?
+        #### **Week 5**
+        Reading: Book V (beginning). Focus: justice and distributive principles. Summary: Students analyze Aristotle’s taxonomy of justice, the distinction between distributive and corrective justice, and his appeal to proportional fairness in civic life.
 
+        #### **Week 6**
+        Reading: Book V (conclusion) and related passages. Focus: law, equity, and civic application. Summary: Continued attention to justice examines legal institutions, corrective practices, and Aristotle’s notion of equity (epieikeia) as a corrective to rigid application of general rules.
+
+        #### **Week 7**
+        Reading: Book VI (introductory sections). Focus: intellectual virtues and their relation to moral action. Summary: We introduce the intellectual virtues—techne, episteme, sophia, nous, and especially phronesis—and begin to map how intellectual excellence supports virtuous conduct.
+
+        #### **Week 8**
+        Reading: Book VI (practical wisdom). Focus: phronesis in deliberation. Summary: In-depth study of phronesis highlights its role in linking universal principles to particular judgments, distinguishing it from theoretical wisdom and demonstrating its centrality for moral responsibility.
+
+        #### **Week 9**
+        Reading: Book VII. Focus: self-control, akrasia, and the psychology of appetite. Summary: Aristotle’s analysis of weakness of will and the dynamics of desire is used to explore when reason fails to govern action and what that implies for moral education and responsibility.
+
+        #### **Week 10**
+        Reading: Book VIII (start). Focus: friendship—types and functions. Summary: We introduce Aristotle’s threefold typology of friendships (utility, pleasure, and the good) and discuss how different friendships contribute to or hinder flourishing.
+
+        #### **Week 11**
+        Reading: Book IX (continuation). Focus: friendship’s moral role. Summary: Deeper treatment of reciprocal goodwill, everyday practices of friendship, and friendship’s significance for political community and moral development.
+
+        #### **Week 12**
+        Reading: Book X (first half). Focus: pleasure and its relation to the good. Summary: Students assess Aristotle’s critique of hedonism, his account of proper pleasures, and how pleasure intertwines with activities that express excellence.
+
+        #### **Week 13**
+        Reading: Book X (conclusion). Focus: contemplation and the highest life. Summary: Close reading of Aristotle’s argument that contemplative activity (theoria) is the highest form of happiness, considering its implications for the unity and accessibility of the good life.
+
+        #### **Week 14**
+        Reading: Selected passages across Books I–X; integrative review. Focus: synthesis and application. Summary: The course culminates in review, synthesis, and applied projects where students defend interpretive theses, compare Aristotle to contemporary accounts, and reflect on the ethical and civic relevance of his vision.
     - lesson_id: 0c
-      title: "Weekly Assignments & Practices"
+      title: "Keys — Topics, Terms, and Concepts for Aristotle's Nicomachean Ethics"
       course: |
-        Each week pairs a focused practice with a brief writing task. Keep all notes in a single notebook to track growth.
+        ## Overview
+        This Keys document is a concise study aid linking the course's principal topics, recurring technical terms, and central concepts to the weeks and passages where they are treated in Aristotle's Nicomachean Ethics. It is intended for quick retrieval during review, exam preparation, and assignment planning, highlighting where to look in the semester for each idea and how core terms are used in context.
 
-        - **Week 1 (Book I):** Write a 250-word explanation of the **function argument** in your own words; include one objection.
-        - **Week 2 (Book II):** Keep a **virtue log** for three days, noting moments of excess/deficiency and attempts to steer to the mean.
-        - **Week 3 (Book III):** Draft a decision tree for one hard choice you face; label voluntary and mixed factors.
-        - **Week 4 (Book IV):** Observe a public interaction (live or recorded). Identify instances of wit, friendliness, or anger at a mean.
-        - **Week 5 (Book V):** Analyze a recent news story for issues of distributive or corrective justice. Write 200 words on what “fair” would mean in Aristotle’s terms.
-        - **Week 6 (Book VI):** Compose a **prudence checklist** for recurring decisions (money, time, relationships). Test it once and revise.
-        - **Week 7 (Book VII):** Document one episode of temptation. Narrate your reasoning, feelings, and whether you acted continently or akratically.
-        - **Week 8 (Books VIII–IX):** Schedule and execute one action that strengthens a virtue-based friendship. Reflect on reciprocity and shared activity.
-        - **Week 9 (Book X 1–8):** Write a 300-word reflection evaluating Aristotle’s case for contemplation as the highest happiness.
-        - **Week 10 (Book X 9):** Draft a one-page “mini-code” of laws for your personal or team life. Include habituation practices and penalties/rewards.
+        Use these keys as a map: each entry indicates the primary locus (book and week) and a one-line clarifying note. Consult the primary text (Book references) and the weekly readings for full arguments and textual details.
 
-        **Capstone (optional):** Produce a 3–4 page essay synthesizing Aristotle’s account of virtue, friendship, and contemplation, with one modern application (e.g., workplace ethics, digital habits, community life).
+        **Key Takeaways**
+        - Aristotle locates human flourishing in activity of the rational soul expressed through moral and intellectual excellence (Book I, week 1).
+        - Moral virtue is developed by habituation and expressed as a reasoned mean between excess and deficiency (Book II, week 2).
+        - Practical wisdom (phronesis) unifies general ethical insight with particular deliberation to guide action (Book VI, weeks 7–8).
 
-        **Assessment:** Completion is based on weekly writings and application exercises, not quizzes. Share highlights with a partner or study group for accountability.
+        **Key Concepts**
+        - Eudaimonia as activity: flourishing is an ongoing, life-encompassing activity, not a transient state (Book I, weeks 1–2).
+        - Virtue as a mean: moral excellence lies between extremes and is determined by reasoned choice (Book II, week 2).
+        - Akrasia and self-control: the psychology of weakness of will and conflict between reason and appetite (Book VII, week 9).
 
+        **Key Terms**
+        - **Eudaimonia**: flourishing; the highest practical good realized as activity in accordance with virtue.
+        - **Arete (Virtue)**: excellence of character or function, a stable disposition toward right action.
+        - **Phronesis**: practical wisdom; the intellectual virtue enabling right deliberation about means to human goods.
+        - **Akrasia**: weakness of will; acting against better judgment through overpowering desire.
+
+        ## Topics
+        - The Highest Good / Teleology — Book I (week 1): Aristotle’s argument that every action and craft aims at some good, culminating in eudaimonia.
+        - Moral Virtue and Habituation — Book II (week 2): formation of character by repeated action and normative guidance by reason.
+        - Voluntary Action and Responsibility — Books III–IV (weeks 3–4): distinctions between voluntary/involuntary acts and the role of choice (prohairesis).
+        - Justice and the Social Good — Book V (week 5): distributive and corrective justice, law, and equity (epieikeia).
+        - Intellectual Virtues and Phronesis — Book VI (weeks 7–8): practical wisdom versus theoretical intellect; integration of universal and particular reasoning.
+        - Akrasia and Self-Control — Book VII (week 9): mechanisms of moral failure and the relationship between appetite and deliberation.
+        - Friendship (Philia) — Books VIII–IX (weeks 10–11): types of friendship, their moral and civic roles, and goods exchanged.
+        - Pleasure, Contemplation, and the Highest Life — Book X (weeks 12–13): assessment of pleasure and the claim that contemplative activity is highest.
+        - Integrative Review and Synthesis — Week 14: connecting moral, social, and intellectual components of the good life.
+
+        ## Terms
+        - Eudaimonia — Book I (week 1): highest human good, activity of the soul in accordance with virtue.
+        - Arete (virtue) — Book II (week 2): excellence manifest in stable dispositions toward right action.
+        - Phronesis — Book VI (weeks 7–8): practical wisdom enabling correct deliberation about particulars.
+        - Prohairesis (Choice) — Book III (week 3): deliberated desire that expresses moral character and agency.
+        - Akrasia — Book VII (week 9): weakness of will where appetite overrides reasoned judgment.
+        - Telos (End/Purpose) — Book I (week 1): the goal toward which a being tends; foundation of teleological ethics.
+
+        ## Concepts
+        - Normative Structure of the Mean — Book II (week 2): how reason determines the mean and why moral education requires habituation.
+        - Unity of Moral and Intellectual Virtue — Books VI & X (weeks 7–8, 12–13): how phronesis links character and action, and contemplation’s place among virtues.
+        - Social Grounding of Ethics — Book V and Books VIII–IX (weeks 5, 10–11): justice and friendship as inherently relational goods for flourishing.
+        - Psychological Dynamics of Action — Books III & VII (weeks 3, 9): interplay of deliberation, desire, and the conditions that make actions voluntary.
+        - Measurement and Practical Reason — various: locating where Aristotle appeals to examples, dispositions, and the role of perception in moral judgment (see weeks 2–4, 7).
+
+      sources:
+        - "Aristotle, Nicomachean Ethics (primary text; recommended translation: W. D. Ross)"
+        - "Selected scholarly excerpts and commentary as assigned (weeks specified in syllabus)"
     - lesson_id: 1
-      title: "Week 1 – Happiness & the Function Argument (Book I 1–13)"
+      title: "Week 1 — Foundations: The Highest Good and Teleology (Nicomachean Ethics, Book I)"
       course: |
-        **Reading**: Book I (entire). Focus on Aristotle’s account of the highest human good (eudaimonia) and the “function” (ergon) argument.
+        ## Overview
+        This week introduces Aristotle’s fundamental question in the Nicomachean Ethics: What is the highest good (the telos) that all human actions aim toward? We read Book I closely to trace Aristotle’s teleological method, his claim that every craft and action aims at some good, and his search for a final end — eudaimonia. Students will examine Aristotle’s proposal that the highest good is an activity of the soul in conformity with excellence, consider the role of the political science in determining the highest good, and practice close reading to locate premises and argumentative structure.
 
-        **Goals**
-        - Grasp why the good must be **complete** and **self-sufficient**.
-        - Reconstruct each step of the function argument.
-        - Distinguish lives of pleasure, honor, wealth, and contemplation.
+        **Key Takeaways**
+        - Aristotle treats ethics as a practical inquiry: actions aim at goods, culminating in a highest good.
+        - Eudaimonia is proposed as an activity in accordance with virtue, not merely a passive state.
+        - Political inquiry is presented as the master art because it determines communal ends and the good life.
 
-        **Discussion & Notes**
-        - What does Aristotle mean by “activity of soul in accord with virtue”? How does this relate to a human function?
-        - Where could the function argument be challenged? (e.g., does “function” apply to humans?)
-        - How does political science frame the inquiry into happiness?
+        **Key Concepts**
+        - Teleology: explanations in terms of ends or purposes that things aim to realize.
+        - Final end (telos): the ultimate aim for which other activities are pursued.
+        - Activity in conformity with excellence: happiness as doing well according to virtues.
 
-        **Exercises**
-        1. Write the function argument in **numbered steps**. Mark premises that need support.
-        2. List three popular candidates for the good life (wealth, honor, pleasure) and Aristotle’s objections to each.
-        3. Identify one activity in your week that expresses deliberate reason; explain how virtue could shape it.
+        **Key Terms**
+        - **Eudaimonia**: flourishing or the highest human good, an activity expressing the soul’s excellence.
+        - **Telos**: an end or purpose that explains why an activity or thing exists.
+        - **Arete (Virtue)**: the excellence or quality that enables a thing to perform its function well.
 
-        **Writing (250–300 words)**: Define eudaimonia in your own words using Aristotle’s terms. Add one objection you find plausible.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book I (recommended translations: W. D. Ross or J. A. K. Thomson/Barnes/Oxford editions)"
+        - "Stanford Encyclopedia of Philosophy — \"Aristotle's Ethics\" (introductory overview)"
+        - "Short handout: \"Aristotle: Life, Method, and the Nicomachean Ethics\" (1–2 pages, course reader)"
 
+      questions_and_answers:
+        - Q: "What is Aristotle’s basic argument for why there must be a highest good?"
+          A: "Aristotle argues that because the sciences, crafts, actions, and pursuits aim at various ends, and some ends are means to further ends, there must be a terminal or final end — a highest good — that is desired for itself and completes the sequence of aims."
+        - Q: "How does Aristotle characterize eudaimonia in Book I?"
+          A: "Aristotle characterizes eudaimonia as an activity of the soul in accordance with virtue (arete), implying a living, performing excellence rather than a mere possession or transient state."
+        - Q: "Why does Aristotle call politics the ‘master art’ when discussing the highest good?"
+          A: "Politics is called the master art because it orders and evaluates other arts and actions for the sake of the polis’ good; it defines and organizes communal ends, including those related to the good human life."
+
+      exercises:
+        - name: "(Easy) Retrieval — Identify and Summarize"
+          prompt: >
+            Without consulting notes, identify and summarize Aristotle’s characterization of the
+            highest good in Book I (sections 1–7). State in two or three sentences what eudaimonia
+            is and why Aristotle treats it as the final end.
+        - name: "(Medium) Close-reading — Argument Mapping"
+          prompt: >
+            Trace Aristotle’s argument from the multiplicity of ends to the idea of a final end.
+            Explicitly list the premises and conclusion, indicate any implicit assumptions, and note
+            where Aristotle appeals to the analogy with crafts and sciences.
+        - name: "(Challenging) Short Philosophical Response"
+          prompt: >
+            Compose a one-paragraph argument (approx. 150–200 words) either defending or criticizing
+            Aristotle’s claim that politics is the master art concerning the highest good. Use
+            textual support from Book I and address potential counterexamples (e.g., individual
+            flourishing versus communal aims).
+
+      assignments:
+        - name: "Weekly Essay — Activity or State?"
+          description: >
+            Write an 800–1000 word essay analyzing Book I’s account of the good. Focus on the claim
+            that eudaimonia is an activity rather than a mere state or possession. What textual
+            evidence supports reading eudaimonia as activity in conformity with excellence? Consider
+            Aristotle’s appeal to function, virtue, and the ordering role of the political science.
+            Respond to one possible objection: might eudaimonia plausibly be conceived as a stable
+            state or condition rather than an activity? Cite Book I passages and at least one
+            secondary source from the week’s readings.
     - lesson_id: 2
-      title: "Week 2 – Virtue, Habit, and the Mean (Book II 1–9)"
+      title: "Book II — Moral Virtue as Habituation; Pleasure, Pain, and the Formation of Character"
       course: |
-        **Reading**: Book II (entire). Aristotle’s account of moral virtue, habituation, and the doctrine of the mean.
+        ## Overview
+        Aristotle's Book II argues that moral virtues are not innate intellectual states but dispositions formed by repeated action. Virtue, for Aristotle, is a settled disposition to choose the mean relative to us, arrived at through practice and habituation rather than mere instruction. This week emphasizes the contrast between moral and intellectual virtue, shows how pleasures and pains serve as trainers of character, and examines Aristotle's examples of how repeated choices shape perception, feeling, and desire. We read Book II closely alongside a short scholarly excerpt on habituation to evaluate Aristotle's claim that ethical excellence is cultivated by doing, so that right action becomes second nature.
 
-        **Goals**
-        - Explain why virtue is a **state (hexis)**, not a feeling or capacity.
-        - Connect habituation, pleasure/pain, and moral perception.
-        - Apply the mean between excess and deficiency to concrete cases.
+        **Key Takeaways**
+        - Moral virtues arise through habituation—repeated practice shapes character and practical perception of good.
+        - Moral virtues differ from intellectual virtues; the former form through practice, the latter through teaching.
+        - Pleasure and pain function as educational signals, reinforcing virtuous habituation and discouraging contrary actions.
 
-        **Discussion & Notes**
-        - How do laws and upbringing cultivate stable dispositions?
-        - Why is the mean **relative to us** and guided by **right reason**?
-        - What makes choice (prohairesis) central to virtue?
+        **Key Concepts**
+        - Moral vs. intellectual virtue: moral virtue is formed by repeated action, intellectual virtue by instruction and reason.
+        - Habituation (ethos): character shaped through repeated actions that make right responses easier and natural.
+        - The role of pleasure and pain: affective responses guide agents toward or away from virtuous patterns of action.
 
-        **Exercises**
-        1. Create a two-column chart of **five virtues** with their excess and deficiency (e.g., Courage ↔ rashness/cowardice).
-        2. Track two decisions over three days: where did you overshoot or fall short of the mean? What guided your calibration?
-        3. Rewrite one of Aristotle’s examples (e.g., giving money) in a modern scenario (digital life, workplace, family).
+        **Key Terms**
+        - **Moral virtue**: a stable disposition to choose the mean and act excellently in emotions and actions.
+        - **Intellectual virtue**: excellence of reasoning and understanding developed through teaching and study.
+        - **Habituation**: the process by which repeated actions form character and make virtuous choices habitual.
 
-        **Writing (250–300 words)**: Describe a habit you want to reshape. Using Book II, outline the training plan (actions, feelings, pleasures/pains to attend to).
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book II (primary reading)"
+        - "Secondary: Excerpt on virtue as habituation (scholarly selection; short article or chapter excerpt)"
+        - "Recommended: Selected translations and commentary notes (e.g., Barnes or Owens introductions to Book II)"
 
+      questions_and_answers:
+        - Q: "How does Aristotle distinguish moral virtue from intellectual virtue in Book II?"
+          A: "Aristotle explains that moral virtues are acquired by habituation—formed through repeated actions and shaped by pleasure and pain—whereas intellectual virtues arise from teaching, time, and experience involving the rational part of the soul."
+        - Q: "Why does Aristotle emphasize pleasure and pain in moral education?"
+          A: "Pleasure and pain train the appetitive part of the soul by making certain actions feel right or wrong; repeated actions paired with appropriate pleasures and pains make virtuous responses more natural."
+        - Q: "What is Aristotle's basic argument that virtues are formed by habit rather than being innate?"
+          A: "He argues from observation and analogy: skills and tastes develop through practice, and because moral excellence shows similar patterns of improvement via repetition, virtues must also be cultivated by doing virtuous acts until they become dispositions."
+
+      exercises:
+        - name: "(Easy) Retrieval: Recall core teleological concepts"
+          prompt: >
+            Without notes, recall and briefly define the following 2–4 retrieval concepts: 'activity
+            in conformity with excellence (eudaimonia as practice)', 'final end (telos)', and
+            'teleology (purpose-driven explanation)'. For each concept, provide one short example
+            from Book II that illustrates it (1–2 sentences each). Time yourself for five minutes.
+        - name: "(Medium) Analyze pleasure and pain in character formation"
+          prompt: >
+            Read the passages in Book II where Aristotle discusses pleasure and pain. Write a
+            350–500 word analysis that explains how Aristotle uses examples to show that pleasure
+            and pain guide habituation, and assess the strengths and limits of those examples for
+            his broader claim about moral education.
+        - name: "(Challenging) Habit formation vs. contemporary psychology"
+          prompt: >
+            Prepare a 700–900 word argumentative response evaluating whether contemporary
+            psychological findings on habit formation (e.g., habit loops, reinforcement learning,
+            neural plasticity) support, complicate, or undermine Aristotle’s habituation model of
+            moral virtue. Use at least one contemporary source and specific Book II passages to
+            support your position.
+
+      assignments:
+        - name: "Weekly Essay — Comparative Analysis of Moral Habituation"
+          description: >
+            Prepare a 900–1,100 word comparative analysis contrasting moral habituation and the idea
+            of innate moral traits. Use evidence from Nicomachean Ethics Book II and at least one
+            contemporary scholarly or psychological source. Address: (1) Aristotle’s textual case
+            for habituation, (2) an account of an innate-trait alternative, and (3) an evaluative
+            conclusion about which account better explains moral development, noting any synthesis
+            or remaining challenges. Cite sources.
     - lesson_id: 3
-      title: "Week 3 – Voluntary Action, Courage, Temperance (Book III 1–12)"
+      title: "Voluntary Action, Choice, and Moral Responsibility (Book III)"
       course: |
-        **Reading**: Book III (1–12). Voluntary vs. involuntary action; deliberation; courage and temperance.
+        ## Overview
+        Understanding voluntary and involuntary action is central to Aristotle's moral theory because responsibility, praise, and blame presuppose a distinction between actions done from the agent's own deliberative choice and those caused by external compulsion or ignorance. In Book III Aristotle introduces prohairesis (choice) as a rational appetite formed through prior deliberation; he distinguishes voluntary, involuntary, and non-voluntary actions and examines how ignorance, force, and passion affect moral assessment. This week we track how deliberation links means and ends, how character forms through repeated chosen acts, and why Aristotle’s account matters for attributing praise, blame, and legal responsibility.
 
-        **Goals**
-        - Distinguish voluntary, mixed, and involuntary acts.
-        - Clarify choice, wish, and deliberation.
-        - Summarize Aristotle’s accounts of courage and temperance.
+        **Key Takeaways**
+        - Voluntary actions arise from the agent with knowledge of particulars and without external compulsion.
+        - Choice (prohairesis) is a rational, deliberated desire directed at means toward ends.
+        - Ignorance or compulsion can mitigate moral blame but require careful specification.
 
-        **Discussion & Notes**
-        - Are actions under threat voluntary? Why or why not? Bring one real example.
-        - What kinds of fear and confidence define courage? Where do honor and shame fit?
-        - Why is temperance about bodily pleasures, not all pleasures?
+        **Key Concepts**
+        - Voluntariness: the agent's origin and knowledge determine moral responsibility and praise/blame.
+        - Prohairesis (choice): a rational, deliberated selection of means consistent with ends and character.
+        - Deliberation: practical reasoning about means that grounds choice and moral agency.
 
-        **Exercises**
-        1. Build a **decision tree** for one hard choice; mark which branches are truly voluntary.
-        2. Outline Aristotle’s five “courage-like” states (e.g., experience-based, citizen-soldier) and why they fall short.
-        3. List three temperate vs. intemperate habits in food, drink, or screens; propose a mean for each.
+        **Key Terms**
+        - **Voluntary action**: action originating in the agent with awareness of particular circumstances.
+        - **Prohairesis (choice)**: the rational, deliberated desire for means that expresses moral character.
 
-        **Writing (250–300 words)**: Narrate a recent decision under pressure. Classify it using Aristotle’s voluntary categories and evaluate whether your response matched courage or temperance.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book III (sections on voluntariness, choice, and responsibility) — W. D. Ross translation or equivalent"
+        - "Stanford Encyclopedia of Philosophy, entry 'Aristotle's Ethics' — section on voluntary action and choice (secondary commentary)"
 
+      questions_and_answers:
+        - Q: "What distinguishes a voluntary action from an involuntary action for Aristotle?"
+          A: "A voluntary action originates in the agent and is done with awareness of particular circumstances, whereas an involuntary action is caused by force or followed by regret due to ignorance of particulars."
+        - Q: "Why does Aristotle insist that choice requires deliberation?"
+          A: "Choice (prohairesis) selects means toward ends; because means are contingent and variable, deliberation about particulars is required to form a reasoned selection."
+        - Q: "How can ignorance or compulsion affect moral praise and blame?"
+          A: "Ignorance about particulars or actions under external compulsion can mitigate blame; but voluntary negligence or self-induced ignorance can still attract responsibility."
+
+      exercises:
+        - name: "(Easy) Retrieval: Recall key concepts without notes"
+          prompt: >
+            Spend 10 minutes recalling from memory and write brief definitions (one or two sentences
+            each) of the following concepts without consulting notes or texts: (1) distinction
+            between moral and intellectual virtue, (2) habituation (ethos) and its role in character
+            formation, (3) pleasure and pain as trainers of affective responses. After writing,
+            compare your recollections to your notes and note two corrections or refinements.
+        - name: "(Medium) Close Reading: Choice versus Wish"
+          prompt: >
+            Close-read Aristotle's discussion of choice (prohairesis) and wish (boulesis) in Book
+            III. Explain in 300–400 words why choice requires deliberation while wish does not,
+            citing specific textual markers that reveal the role of means and practical reasoning in
+            choice.
+        - name: "(Challenging) Case Study: Applying Aristotle’s criteria for voluntariness"
+          prompt: >
+            Analyze the following hypothetical (600–800 words): A driver, distracted by a sudden
+            medical episode, causes a traffic accident. The driver had been warned about the
+            condition previously but did not seek treatment. Using Aristotle's criteria for
+            voluntariness, ignorance, and self-caused ignorance, assess the driver’s moral
+            responsibility and the appropriate degree of praise or blame. Consider force, choice,
+            deliberation, and habituation in your analysis.
+
+      assignments:
+        - name: "Weekly Essay — Voluntariness and Contemporary Responsibility"
+          description: >
+            Write an 800–1,000 word paper applying Aristotle’s analysis of voluntary action to a
+            contemporary legal or moral case (e.g., negligence, coerced action, medical emergencies,
+            or self-induced ignorance). Identify relevant passages in Book III, summarize
+            Aristotle’s criteria for voluntariness and choice, and argue whether and why the agent
+            in your chosen case is morally responsible according to Aristotle. Use at least one
+            secondary source (such as the Stanford Encyclopedia entry or a short commentary) to
+            situate your interpretation. Cite passages and sources briefly and submit as a single
+            document.
     - lesson_id: 4
-      title: "Week 4 – The Character Virtues (Book IV 1–9)"
+      title: "Particular Moral Virtues: Courage, Temperance, and Magnanimity (Book IV)"
       course: |
-        **Reading**: Book IV (entire). Finer-grained virtues: generosity, magnificence, magnanimity, proper ambition, mildness, friendliness, truthfulness, wit, shame.
+        ## Overview
+        In Week 4 we turn to Aristotle's detailed treatment of particular moral virtues in Book IV, focusing on courage, temperance, liberality, magnificence, and magnanimity. We study how each virtue is characterized as a mean between excess and deficiency, how dispositions are shaped by habituation and rational choice, and how social contexts (honor, wealth, public expenditure) shape the expression of those virtues. Attention will also be given to how voluntariness and prohairesis inform praise and blame when agents cultivate or fail to cultivate these dispositions.
 
-        **Goals**
-        - Capture the distinct aims and scales of the “liberality” virtues (generosity vs. magnificence).
-        - Explain magnanimity’s relation to honor and why it crowns the virtues.
-        - Map virtues regulating social interaction (anger, friendliness, wit).
+        **Key Takeaways**
+        - Virtues in Book IV are specific means between excess and deficiency, realized in feeling and action.
+        - Magnanimity concerns rightly deserved honor and the soul’s proper estimation of its worth.
+        - Social roles and material conditions affect how virtues like liberality and magnificence manifest.
 
-        **Discussion & Notes**
-        - How do wealth and honor shape these virtues? Where could they be misread today?
-        - What makes magnanimity virtuous rather than arrogant?
-        - How is wit a moral virtue, not merely a talent?
+        **Key Concepts**
+        - The mean: practical reason locates a stable intermediate stance between two harmful extremes.
+        - Prohairesis and voluntariness: responsible choice links deliberation to stable character traits.
+        - Social expression of virtue: honor, wealth, and public life shape virtues’ outward forms.
 
-        **Exercises**
-        1. Make a **virtue cards** table: for each virtue, note its excess/deficiency and a modern example.
-        2. Observe one public interaction (live or recorded) and annotate where anger, friendliness, or wit hit or miss the mean.
-        3. Draft a short scenario that calls for magnificence—what spending and motive would fit Aristotle’s standard?
+        **Key Terms**
+        - **Mean**: the intermediate state between excess and deficiency, determined by right reason.
+        - **Magnanimity**: greatness of soul; proper self-regard tied to deserved honor.
+        - **Temperance**: moderation in bodily pleasures, especially sexual and gustatory desires.
 
-        **Writing (250–300 words)**: Choose one Book IV virtue you lack. Describe a week-long practice to aim at the mean, noting social cues you will monitor.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book IV (primary text: courage, temperance, liberality, magnificence, magnanimity)"
+        - "Secondary: Lecture notes on moral exemplars and classical Greek social practices affecting virtue"
+        - "Secondary readings: scholarly commentary on magnanimity and honor in Book IV (selected excerpts)"
 
+      questions_and_answers:
+        - Q: "How does Aristotle characterize the 'mean' for a particular virtue in Book IV?"
+          A: "Aristotle describes the mean as a disposition to feel and act at the right times, with respect to the right things, and toward the right people; practical wisdom determines the appropriate intermediate between excess and deficiency."
+        - Q: "In what way is magnanimity tied to honor, and why is it distinctive among virtues?"
+          A: "Magnanimity concerns a correct estimation of one’s worth relative to honor; unlike other virtues focused on pleasures or actions, it centrally involves reputation and deserved recognition in social life."
+        - Q: "How do voluntariness and prohairesis bear on moral praise for virtuous acts discussed in Book IV?"
+          A: "Virtuous acts receive praise when they stem from voluntary choice (prohairesis) and stable dispositions; ignorance, compulsion, or bad deliberation can mitigate praise or blame even when outward acts resemble virtue."
+
+      exercises:
+        - name: "Retrieval Practice (Easy)"
+          prompt: >
+            Without notes, in five minutes write brief definitions or recall the core idea of these
+            concepts: final end (telos); prohairesis (choice) and deliberation; voluntariness and
+            moral responsibility; activity in conformity with excellence (eudaimonia as practice).
+            Then compare your answers to the text.
+        - name: "Textual Analysis (Medium)"
+          prompt: >
+            Close-read Aristotle’s account of magnanimity in Book IV. Identify the passages where he
+            links magnanimity to honor and explain how he distinguishes a magnanimous person from a
+            vain or petty one. Provide a short analytic paragraph that references the text and
+            evaluates the coherence of Aristotle’s distinction.
+        - name: "Critical Essay Preparation (Challenging)"
+          prompt: >
+            Prepare a ten-minute oral defense or critique (outline plus supporting points) of
+            Aristotle’s social assumptions in Book IV: does his account of virtues like magnificence
+            and liberality presuppose particular class structures or civic roles? Use historical
+            context and textual evidence to argue whether Aristotle’s virtue ethics can be
+            generalized beyond his social milieu.
+
+      assignments:
+        - name: "Weekly Essay"
+          description: >
+            Write a 1,000–1,200 word essay on one virtue from Book IV (choose courage, temperance,
+            liberality, magnificence, or magnanimity). Explain Aristotle’s account of the mean for
+            that virtue, how habituation and choice contribute to its formation, and assess the
+            virtue’s relevance and possible limitations in contemporary moral life. Cite primary
+            passages from Book IV and at least one secondary interpretive point.
     - lesson_id: 5
-      title: "Week 5 – Justice: Universal and Particular (Book V 1–12)"
+      title: "Justice and Proportionality — Nicomachean Ethics Book V"
       course: |
-        **Reading**: Book V (entire). Universal justice (lawfulness) and particular justice (distributive, corrective, reciprocal).
+        ## Overview
+        Aristotle's Book V investigates justice as the central virtue for social and political life. He distinguishes kinds of justice—political, legal, distributive, and corrective—and shows how each responds to different relations among citizens and the community. Central to his account is proportionality: fairness requires distributing honors, goods, and burdens according to merit or relevant measure rather than strict arithmetic equality. This week we read Book V closely, compare Aristotle's categories with modern intuitions about equality and rights, and trace how habituation and moral psychology shape just action in civic contexts.
 
-        **Goals**
-        - Differentiate general justice from distributive and corrective justice.
-        - Understand geometric vs. arithmetic proportion in fair distributions.
-        - See why equity (epieikeia) perfects law.
+        **Key Takeaways**
+        - Aristotle distinguishes distributive and corrective justice to address different social imbalances.
+        - Proportionality governs fair allocation by relating shares to relevant merit or measure.
+        - Justice in the polis integrates law, equity, and collective well-being through practical reasoning.
 
-        **Discussion & Notes**
-        - When does equality mean proportion, and when does it mean simple arithmetic balance?
-        - How does reciprocity in exchange preserve social bonds?
-        - Why does equity matter when law is too general?
+        **Key Concepts**
+        - Distinction between distributive and corrective justice and their respective normative aims.
+        - Proportionality principle: justice allocates according to merit, not strict numerical equality.
+        - Political and legal justice as expressions of communal norms and corrective mechanisms.
 
-        **Exercises**
-        1. Diagram a **distributive case** (e.g., funding, recognition) using geometric proportion.
-        2. Take a news story or personal conflict; classify which type of justice applies and why.
-        3. Draft one “equitable” adjustment to a rule you follow—how would Aristotle justify it?
+        **Key Terms**
+        - **Distributive justice**: allocation of honors and resources according to merit or proportion.
+        - **Corrective justice**: restoration after transactions or wrongful acts to restore balance.
+        - **Proportionality**: principle that allocative shares should reflect relevant differences or merit.
 
-        **Writing (250–300 words)**: Analyze a recent fairness dispute you observed. Identify the justice type and whether equity is required.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book V (Justice) — primary text"
+        - "Selected secondary readings on distributive and corrective justice (course reader): articles on proportionality, equality, and legal justice"
+        - "Excerpt: Ronna Burger, \"Aristotle's Politics and Ethics: The Place of Justice\" (selected pages)"
 
+      questions_and_answers:
+        - Q: "How does Aristotle distinguish distributive from corrective justice?"
+          A: "Distributive justice concerns allocation of honors and resources according to proportionate merit, while corrective justice addresses voluntary or involuntary transactions and seeks to restore equality after a wrong or imbalance."
+        - Q: "What role does proportionality play in Aristotle’s account of fairness?"
+          A: "Proportionality ensures that shares correspond to relevant measures (merit, contribution) rather than identical numerical equality, making distribution sensitive to relevant differences among persons."
+        - Q: "How might habituation and pleasure/pain conditioning influence just action in civic contexts?"
+          A: "Habituation shapes dispositions toward fairness; pleasure and pain reinforce actions aligned or misaligned with justice, so citizens trained to take pleasure in fairness are more likely to act justly."
+
+      exercises:
+        - name: "(Easy) Retrieval: Core Concepts Recall"
+          prompt: >
+            Without notes, write brief definitions (1–2 sentences each) of: distinction between
+            moral and intellectual virtue; habituation (ethos) and its role in character formation;
+            pleasure and pain as trainers of affective responses. Then explain in 2–3 sentences how
+            habituation and pleasure/pain conditioning might support someone becoming just in
+            Aristotle's sense.
+        - name: "(Medium) Apply Proportionality to Allocation"
+          prompt: >
+            Aristotle's proportionality principle requires allocations reflect relevant merit.
+            Suppose a polis must distribute 120 civic honors among three groups: war veterans (50
+            merit points each, 10 people), civic administrators (30 points each, 8 people), and
+            artisans (15 points each, 12 people). Allocate the 120 honors proportionally by merit
+            and explain your calculation and normative justification in Aristotle's terms.
+        - name: "(Challenging) Debate: Aristotle and Modern Equality"
+          prompt: >
+            Prepare a 900–1,100 word argumentative brief: argue either that Aristotle's categories
+            of justice can ground a modern theory of equality and rights, or that his teleological
+            and merit-based framework fundamentally conflicts with contemporary egalitarian or
+            rights-based views. Address at least two counterarguments and use textual support from
+            Book V.
+
+      assignments:
+        - name: "Weekly Assignment — Comparative Critical Analysis"
+          description: >
+            Write a 1,000–1,200 word critical analysis comparing Aristotle’s categories of justice
+            (distributive, corrective, political/legal) with a chosen modern theory of justice (for
+            example, Rawlsian justice as fairness, utilitarianism, or a rights-based approach). Your
+            paper should: (1) summarize Aristotle’s relevant claims with textual citations from Book
+            V, (2) present the core commitments of the modern theory selected, (3) evaluate points
+            of convergence and tension—especially regarding proportionality, equality, and remedial
+            mechanisms—and (4) conclude with your reasoned judgment about the contemporary
+            applicability of Aristotle’s account. Use at least one secondary source from the course
+            reader. Grading will consider clarity of argument, textual engagement, and critical
+            depth.
     - lesson_id: 6
-      title: "Week 6 – Intellectual Virtues & Prudence (Book VI 1–13)"
+      title: "Law, Equity (Epieikeia), and the Judge’s Role — Book V continued"
       course: |
-        **Reading**: Book VI (entire). Intellectual virtues, practical wisdom (phronēsis), and their relation to moral virtue.
+        ## Overview
+        In Week 6 we complete Book V and focus tightly on Aristotle’s account of law, equity (epieikeia), and the judicial function. Aristotle distinguishes the generality and necessity that characterize law from the sensitivity to particulars that equity supplies; where law treats cases by general rule, equity corrects when rigid rules produce injustice in specific circumstances. We examine how judges must balance respect for statutory generality with the moral imperative to correct for exceptions, and how concepts of voluntariness, ignorance, and proportionality inform judgments about blame and appropriate remedies.
 
-        **Goals**
-        - Distinguish **technē, epistēmē, phronēsis, sophia, nous**.
-        - Explain why prudence is necessary for moral virtue and why akratic prudence is impossible.
-        - Connect prudence to deliberation about particulars.
+        **Key Takeaways**
+        - Law provides necessary general rules; equity corrects when particular cases require humane adjustment.
+        - Judges must interpret legal rules with judgment, bridging universal standards and concrete facts.
+        - Proportionality and voluntariness shape assessments of justice, responsibility, and corrective measures.
 
-        **Discussion & Notes**
-        - How do universal principles meet particular choices? Give a real example.
-        - Why is prudence bound to character? Can cleverness replace it?
-        - What makes **bouleusis** (deliberation) good or bad?
+        **Key Concepts**
+        - The distinction between law’s generality and equity’s attention to particular circumstances and fairness.
+        - The judge’s role as mediator who applies rules but may correct for cases where rules fail.
+        - Corrective and distributive concerns converge in proportional remedies responsive to facts and merit.
 
-        **Exercises**
-        1. Build a **prudence checklist** for one recurring decision (money, time, relationships).
-        2. Sort five sample tasks under technē/epistēmē/phronēsis/sophia/nous and justify each classification.
-        3. Revisit one past mistake: what information or perception of particulars was missing?
+        **Key Terms**
+        - **Epieikeia (equity)**: the corrective principle that tempers general laws to fit particular unjust cases.
+        - **Corrective justice**: restoration that makes parties equal after wrongdoing through appropriate compensation.
+        - **Proportionality**: matching benefits or burdens to relevant measures, especially in distributive allocations.
 
-        **Writing (250–300 words)**: Describe how prudence would change a decision you face this month. Include what facts, ends, and means you must weigh.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book V (justice and epieikeia) — selected translation (course packet)"
+        - "Supplementary readings on law and equity (course packet): case studies and excerpts on epieikeia and judicial discretion"
+        - "Secondary: Martha Nussbaum, selections on Aristotle and justice (recommended)"
+        - "Contemporary cases illustrating equitable correction (jurisprudential excerpts provided in course materials)"
 
+      questions_and_answers:
+        - Q: "What is the core difference between law and equity (epieikeia) in Aristotle’s account?"
+          A: "Law issues general, necessary rules aimed at broad correctness; equity is the corrective practice that adjusts those rules when their generality produces manifest unfairness in particular cases."
+        - Q: "How does Aristotle connect voluntariness and ignorance to legal responsibility?"
+          A: "Aristotle treats voluntary actions as the proper subject of praise or blame, while ignorance and compulsion can mitigate culpability; judges assess whether ignorance was culpable or excusable when allocating corrective remedies."
+        - Q: "Why does proportionality matter for distributive and corrective justice?"
+          A: "Proportionality ensures that allocations and remedies correspond to relevant measures of merit, loss, or blame so that justice restores or distributes in accordance with relevant comparative ratios."
+
+      exercises:
+        - name: "(Easy) Retrieval: Recall core distinctions"
+          prompt: >
+            Without using notes, write brief definitions (one or two sentences each) for the
+            following four concepts: (1) distributive justice versus corrective justice (the key
+            distinction), (2) ignorance and compulsion as mitigating factors, (3) the
+            proportionality principle in allocation, and (4) voluntariness and moral responsibility.
+            Time yourself for 10 minutes and submit your responses.
+        - name: "(Medium) Apply epieikeia to a scenario"
+          prompt: >
+            A municipal ordinance imposes a strict curfew that fines any individual on public
+            streets between 10pm and 6am. A nurse returning home from an emergency shift is fined
+            under the ordinance. Using Aristotle’s notion of equity (epieikeia), analyze whether the
+            fine should be upheld or corrected. Explain which facts make this case an appropriate
+            instance for equitable correction and propose an equitable remedy. (300–400 words)
+        - name: "(Challenging) Argument on discretionary justice and precedent"
+          prompt: >
+            Compose an argumentative essay (600–800 words) evaluating how Aristotle’s judicial
+            insights about law, particulars, and epieikeia bear on contemporary doctrines of
+            discretionary justice and the role of precedent. Address tensions between rule-
+            following, judicial discretion, and democratic legitimacy, and offer a reasoned position
+            on whether Aristotle’s account supports a robust role for judicial equity in modern
+            systems.
+
+      assignments:
+        - name: "Weekly Assignment — Case Note on Epieikeia"
+          description: >
+            Write a 900–1,100 word case note applying Aristotle’s notion of epieikeia to a
+            contemporary legal controversy supplied in the course packet (choose one). Your note
+            should (1) summarize the statutory rule and the particular facts that create tension
+            with the rule, (2) explain why the case is plausibly a candidate for equitable
+            correction under Aristotle’s criteria, (3) propose an equitable remedy or judicial
+            approach that restores fairness while respecting legal generality, and (4) engage with
+            one secondary source from the provided readings. Use clear textual references to Book V
+            and show how voluntariness, ignorance, or proportionality affect your recommended
+            outcome.
     - lesson_id: 7
-      title: "Week 7 – Continence, Incontinence, and Pleasure (Book VII 1–11)"
+      title: "Book VI — Intellectual Virtues and Phronesis (Practical Wisdom)"
       course: |
-        **Reading**: Book VII (1–11). Akrasia (incontinence), enkrateia (continence), softness, endurance; pleasure revisited.
+        ## Overview
 
-        **Goals**
-        - Clarify Aristotle’s account of weakness of will and how it differs from vice.
-        - Distinguish continence, incontinence, softness, and self-control.
-        - Understand his nuanced view of pleasure.
+        This week focuses on Aristotle's Book VI, which distinguishes intellectual virtues (techne, episteme, phronesis, sophia) and places practical wisdom (phronesis) at the center of ethical action. We read how phronesis integrates moral virtue with correct deliberation: it discerns particulars, weighs competing goods, and guides choice toward the good life (eudaimonia). Attention will be given to how intellectual knowledge differs from know-how and theoretical wisdom, and to the interdependence of moral character and practical reasoning in producing right action.
 
-        **Discussion & Notes**
-        - How can someone “know” yet fail to act? What role does perception play?
-        - Why does Aristotle reject simple hedonism yet defend certain pleasures?
-        - Which pleasures are “proper” to virtuous activity?
+        We will combine close textual reading of Book VI with contemporary secondary sources that illuminate the nature, teachability, and cultivation of phronesis in modern practical contexts (law, medicine, leadership). Class activities emphasize applying phronesis to concrete moral problems and distinguishing it from other forms of cognitive excellence.
 
-        **Exercises**
-        1. Journal **one temptation episode** this week; note your reasoning and feelings.
-        2. List three pleasures you consider suspect; classify which are natural/necessary vs. harmful/excessive.
-        3. Rewrite Aristotle’s baker or drunkard examples using a digital-age analogue (social media, gaming, online shopping).
+        **Key Takeaways**
+        - Phronesis is a moral intellectual virtue that links right deliberation to right action in particular circumstances.
+        - Techne and episteme are forms of know-how and scientific knowledge distinct from practical wisdom’s moral judgment.
+        - Cultivating phronesis requires experience, habituation, and reflection rather than purely theoretical instruction.
 
-        **Writing (250–300 words)**: Analyze your temptation case using Aristotle’s distinctions. Were you incontinent, merely soft, or continent? What would reform require?
+        **Key Concepts**
+        - Practical reasoning: deliberation about means for living well oriented by moral ends and particular circumstances.
+        - The unity of virtue: phronesis coordinates moral virtues so actions are both right in feeling and in reasoning.
+        - Moral perception of particulars: phronesis discerns salient features that rule-based knowledge cannot fully capture.
 
+        **Key Terms**
+        - **Phronesis (practical wisdom)**: the intellectual virtue enabling correct deliberation about actions aimed at the good life.
+        - **Techne (craft/technique)**: productive knowledge concerned with making things and following rules for predictable results.
+        - **Episteme (scientific knowledge)**: demonstrative, theoretical knowledge of universals and necessary truths.
+        - **Sophia (theoretical wisdom)**: the combination of episteme and nous oriented toward first principles and truth.
+
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book VI (recommended translation: W.D. Ross or Terence Irwin), primary text"
+        - "Martha C. Nussbaum, 'Non-Relative Virtues: An Aristotelian Approach' (1990), on phronesis and moral reason"
+        - "Julia Annas, Intelligent Virtue (excerpts: chapter on practical reason and moral perception), secondary"
+        - "Alasdair MacIntyre, After Virtue (selected excerpts on practical reasoning and tradition), secondary"
+
+      questions_and_answers:
+        - Q: "How does Aristotle distinguish phronesis from techne and episteme?"
+          A: "Aristotle distinguishes them by purpose and method: techne is productive know-how concerned with making, episteme is theoretical knowledge of universals, while phronesis is practical wisdom aimed at right action, deliberating about means in contingent human affairs and shaped by moral ends."
+        - Q: "Is phronesis teachable according to Aristotle?"
+          A: "Aristotle suggests phronesis is not teachable in the same way as techne or episteme; it develops through habituation, experience, and guided deliberation, though mentoring and practical instruction can cultivate conditions for its growth."
+        - Q: "What role does perception of particulars play in practical wisdom?"
+          A: "Phronesis requires sensitivity to particulars: it discerns relevant features in situations that universal rules may not capture, allowing flexible, context-sensitive judgement."
+
+      exercises:
+        - name: "Retrieval Exercise (Easy)"
+          prompt: >
+            Without notes, list and briefly explain the following concepts: judicial discretion
+            balancing rules and particulars; law versus equity (epieikeia); proportionality and
+            mitigations (ignorance, compulsion). Aim for two to four concise sentences per concept.
+        - name: "Dialogue Analysis (Medium)"
+          prompt: >
+            Read the following short dialogue between two citizens debating whether to prioritize
+            community safety or individual liberty in a contaminated water emergency. Use phronesis
+            to adjudicate between competing goods: identify the salient particulars, state the
+            relevant moral principles, weigh consequences and intentions, and justify a choice that
+            balances moral ends with practical means. Provide a paragraph of deliberation and a
+            concluding sentence with your recommended action.
+
+            Scenario: A municipal official must decide whether to issue an immediate mandatory
+            evacuation (protecting health but displacing vulnerable residents) or issue voluntary
+            advisories (preserving autonomy but risking harm).
+        - name: "Argumentative Composition (Challenging)"
+          prompt: >
+            Compose a 700–900 word argumentative piece: defend or challenge the claim that phronesis
+            is teachable. Address Aristotle’s position in Book VI, incorporate contemporary
+            perspectives on experiential learning and mentorship, and propose concrete pedagogical
+            strategies for cultivating phronesis today (for example, in professional education or
+            civic training). Use textual citations from Book VI where relevant.
+
+      assignments:
+        - name: "Weekly Essay — Phronesis Linking Knowledge to Action"
+          description: >
+            Write a 1,000–1,200 word essay explaining the role of phronesis in linking moral
+            knowledge to action. Use textual evidence from Nicomachean Ethics Book VI to show how
+            practical wisdom integrates perception of particulars, moral virtue, and deliberation.
+            Discuss implications for teaching and cultivating phronesis in contemporary contexts and
+            include at least two citations to the primary text.
     - lesson_id: 8
-      title: "Week 8 – Friendship: Utility, Pleasure, and Virtue (Books VIII–IX)"
+      title: "Teaching Practical Wisdom: Phronesis, Experience, and Deliberation"
       course: |
-        **Reading**: Books VIII–IX (entire). Types of friendship (philia), justice within friendships, and self-relationship.
+        ## Overview
+        This week advances our study of Book VI by focusing on the pedagogy of intellectual virtue, especially phronesis (practical wisdom). We examine how experience, habituation, mentorship, and reflective exercises combine to form reliable moral judgment able to navigate particular situations. Emphasis is placed on classroom and apprenticeship practices that cultivate perceptual sensitivity to particulars, the capacity to deliberate about means, and the communal contexts that support moral formation. Students will analyze textual passages, compare pedagogical models, and design applied exercises intended to develop phronetic judgment in real-world learning environments.
 
-        **Goals**
-        - Differentiate friendships of utility, pleasure, and virtue.
-        - Explain why virtue-friendship mirrors the self and is most stable.
-        - Consider justice and equality in unequal friendships.
+        **Key Takeaways**
+        - Phronesis integrates perception of particulars with deliberative reasoning to select virtuous means.
+        - Experience, habituation, and mentorship jointly convert moral knowledge into reliable practical judgment.
+        - Classroom and communal practices must provide situated cases and guided reflection to cultivate phronesis.
 
-        **Discussion & Notes**
-        - Why do friendships require time and shared activity?
-        - How do friendships dissolve? What preserves them?
-        - How does friendship relate to self-love and happiness?
+        **Key Concepts**
+        - Distinguishing techne, episteme, sophia, and phronesis clarifies different intellectual aims relevant to action.
+        - Moral perception of particulars is necessary for applying universal principles in concrete deliberation.
+        - Reflective practice and feedback bridge episodic experience and stable practical wisdom.
 
-        **Exercises**
-        1. Map three current relationships to the friendship types; note what would elevate each.
-        2. Plan and perform **one “virtuous friendship” action** this week; reflect on reciprocity.
-        3. Draft a short covenant for a study group or team that balances unequal roles.
+        **Key Terms**
+        - **Phronesis**: practical wisdom — the moral intellect that discerns right ends and means in context.
+        - **Techne**: craft or skill-based know-how oriented toward producing particular artifacts or outcomes.
+        - **Episteme**: theoretical or scientific knowledge concerned with necessary and universal truths.
 
-        **Writing (250–300 words)**: Describe the marks of a virtue-friendship in your life (or one you hope to form). How will you cultivate shared activity and frankness?
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book VI (primary text)"
+        - "Terence Irwin, Nicomachean Ethics (translation and commentary) — selections on Book VI"
+        - "Julia Annas, Intelligent Virtue (2004) — chapters on virtue formation and pedagogy"
+        - "Martha Nussbaum, The Fragility of Goodness (1986) — selections on practical reasoning and contingency"
 
+      questions_and_answers:
+        - Q: "How does Aristotle conceive the role of experience in cultivating phronesis?"
+          A: "For Aristotle, experience supplies a repertoire of particular cases and perceptual sensitivity; combined with habituation and reflective judgment, it allows one to recognize morally relevant features and deliberate about appropriate means."
+        - Q: "What distinguishes phronesis from techne, episteme, and sophia?"
+          A: "Techne is productive skill for making things, episteme is demonstrable theoretical knowledge, sophia is contemplative wisdom about first principles, while phronesis is practical, moral reason aimed at right action in particular contexts."
+        - Q: "What classroom methods best reveal whether a student is developing phronesis?"
+          A: "Case-based simulations, supervised practicum with real decisions, reflective journals linking choices to reasons, and mentor feedback sessions reveal the student's ability to perceive particulars and deliberate rightly."
+
+      exercises:
+        - name: "Retrieval (Easy)"
+          prompt: >
+            Without notes and in no more than five sentences, recall and explain two to four of
+            these concepts: eudaimonia as practice, the distinction among
+            techne/episteme/sophia/phronesis, phronesis as practical reasoning linking virtue to
+            action, and the role of particulars and perception in moral judgement.
+        - name: "Application (Medium)"
+          prompt: >
+            Evaluate the appropriate balance between theoretical knowledge (episteme/sophia) and
+            experiential learning in forming practical judgment. Provide two examples where theory
+            must yield to experience, and two where theoretical grounding remains essential.
+        - name: "Design (Challenging)"
+          prompt: >
+            Design a short syllabus or seminar activity (four 75-minute sessions) aimed at
+            cultivating phronesis among students. Include learning objectives, a sequence of case-
+            based exercises, mentorship/reflection components, and formative assessment methods.
+
+      assignments:
+        - name: "Instructional Plan for Teaching Phronesis"
+          description: >
+            Prepare a 1,200–1,500 word instructional plan that shows how to teach practical wisdom
+            through applied exercises and reflection. The plan should include learning objectives
+            tied to phronesis, at least three concrete classroom or apprenticeship activities,
+            guidance for mentors/instructors, methods for assessing students' practical judgment,
+            and a short rationale linking the activities to Aristotelian theory.
     - lesson_id: 9
-      title: "Week 9 – Pleasure & the Contemplative Life (Book X 1–8)"
+      title: "Book VII — Akrasia, Self-Control, and the Psychology of Moral Struggle"
       course: |
-        **Reading**: Book X (1–8). Refined account of pleasure; contemplation as the highest happiness.
+        ## Overview
+        In Week 9 we read Aristotle's Nicomachean Ethics, Book VII, closely examining akrasia (weakness of will), enkrateia (self-control/continence), and the role of pleasure and appetite in shaping action. We track Aristotle's distinctions among voluntary action, choice, and ignorance, and his attempt to give a psychological account of why agents sometimes act against their better judgment. The week connects Aristotle's conceptual analysis to contemporary empirical studies on impulsivity, decision-making, and habit, asking whether his account remains plausible as a normative-psychological model of moral failure.
 
-        **Goals**
-        - Understand pleasure as the **completion** of activity, not a separate process.
-        - Evaluate Aristotle’s hierarchy of activities culminating in contemplation.
-        - Weigh the claims that contemplation is most self-sufficient and continuous.
+        **Key Takeaways**
+        - Akrasia describes acting against reason when passion overwhelms deliberative judgment.
+        - Enkrateia (self-control) enables agents to align appetites with rational choice consistently.
+        - Pleasure functions as a trainer for the soul, explaining repeated patterns of desire and action.
 
-        **Discussion & Notes**
-        - How does this pleasure account differ from Book VII’s? Why emphasize perfecting activities?
-        - What makes contemplation “divine-like,” and is it compatible with moral action?
-        - Do you accept Aristotle’s hierarchy? Where might a modern critique push back?
+        **Key Concepts**
+        - Distinguishing akrasia, vice, and ignorance to explain different forms of morally flawed action.
+        - The psychology of temptation: how appetite, perception, and memory disrupt deliberation and choice.
+        - Role of habituation in stabilizing character, thereby reducing susceptibility to akratic episodes.
 
-        **Exercises**
-        1. Outline Aristotle’s criteria for the highest life; test one alternative (artistic creation, civic leadership) against them.
-        2. Track a contemplative activity (study, prayer, design, math) for 30–60 minutes; note what pleasure feels like as “completion.”
-        3. Pair this with one moral action; compare satisfactions and limits.
+        **Key Terms**
+        - **Akrasia**: weakness of will; acting against better judgment due to overpowering desires.
+        - **Enkrateia**: self-control or continence; the state of having appetites aligned with reason.
+        - **Hedone (Pleasure)**: affective response that reinforces habits and motivates repeated action.
 
-        **Writing (300–350 words)**: Argue for or against Aristotle’s claim that contemplation is the highest happiness. Use his criteria and one modern concern.
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book VII (primary: translation by W. D. Ross or similar)"
+        - "Annas, J., & Sorabji, R., selections on akrasia and moral psychology (secondary readings)"
+        - "Contemporary psychology: research on akrasia, impulse control, and decision-making (e.g., articles on impulsivity, dual-process models, and habit formation)"
 
+      questions_and_answers:
+        - Q: "How does Aristotle distinguish akrasia from vice and from simple ignorance?"
+          A: "Aristotle says akrasia occurs when one knows the better course but is overcome by desire; vice involves defective reasoning that takes pleasure in the wrong, while ignorance lacks the relevant knowledge or perception of the good."
+        - Q: "Why does Aristotle think pleasure can explain why someone acts against their better judgment?"
+          A: "He argues pleasure can seize attention and memory, altering perception and motivation so that immediate pleasurable appearances override deliberative judgments about what is truly good."
+        - Q: "What difference does habituation make in reducing akratic actions?"
+          A: "Habituation shapes desires and emotional responses over time, creating stable appetites that either support rational choice (through training) or perpetuate akratic tendencies if mistrained."
+
+      exercises:
+        - name: "(Easy) Retrieval — Core Distinctions (Recall without notes)"
+          prompt: >
+            Without notes, write brief definitions (one sentence each) of these three concepts: (1)
+            distinction between moral and intellectual virtue, (2) habituation (ethos) and its role
+            in character formation, (3) pleasure and pain as trainers of affective responses. Time
+            yourself for 8–10 minutes, then check your answers against the text and refine.
+        - name: "(Medium) Analyze Aristotle's Explanation of Akrasia"
+          prompt: >
+            Explain Aristotle's psychological model of akrasia: how perception, memory, and pleasure
+            interact to produce action contrary to better judgment. Use a concrete case (e.g.,
+            dieting, anger) to trace the sequence from deliberation to akratic action and indicate
+            where self-control could have altered the outcome.
+        - name: "(Challenging) Compare Aristotle with Modern Empirical Accounts"
+          prompt: >
+            Critically assess Aristotle's model of weakness of will in light of one contemporary
+            empirical framework (e.g., dual-process theory, executive function, or habit research).
+            Identify at least two points of convergence and two tensions, and argue whether
+            Aristotle's account remains explanatory for modern findings.
+
+      assignments:
+        - name: "Comparative Essay on Akrasia (1,000–1,300 words)"
+          description: >
+            Write a 1,000–1,300 word comparative essay evaluating Aristotle's account of akrasia
+            against a modern psychological explanation (choose one: dual-process models, executive
+            control failure, or habit-formation theories). Explain Aristotle's core claims,
+            summarize the modern account, and argue where each account succeeds or fails in
+            explaining akratic action. Use textual evidence from Book VII and at least two secondary
+            sources from the week's readings.
     - lesson_id: 10
-      title: "Week 10 – Legislation, Habituation, and Synthesis (Book X 9)"
+      title: "Friendship (Philia) — Types, Value, and Political Dimensions (Book VIII)"
       course: |
-        **Reading**: Book X (9). Turning to politics: law, habituation, and education.
+        ## Overview
+        This week centers on Aristotle’s account of friendship (philia) in Book VIII of the Nicomachean Ethics. We trace his taxonomy—friendships of utility, pleasure, and virtue—and attend to how each form contributes differently to individual flourishing. Beyond private relations, Aristotle situates friendship within the polis: friendships shape civic bonds, trust, and stability, and virtuous friendships serve as models for laws and political association. We examine how friendships habituate moral dispositions, support practical reasoning (phronesis), and mediate conflicts between personal and public goods.
 
-        **Goals**
-        - See why law and habituation matter for forming character.
-        - Connect personal ethics to civic structures.
-        - Synthesize themes from the whole work: virtue, prudence, friendship, contemplation.
+        **Key Takeaways**
+        - Aristotle distinguishes three kinds of friendship: utility, pleasure, and virtue, each with distinct durability and moral value.
+        - Virtuous friendships reciprocally promote moral development and reinforce practical wisdom through shared ends.
+        - Friendship has political import: stable friendships contribute to civic cohesion and the moral fabric of the polis.
 
-        **Discussion & Notes**
-        - What makes good laws for moral formation? How do customs and education reinforce them?
-        - How should a legislator balance universals with equitable exceptions?
-        - What would Aristotle say about modern institutions shaping virtue (schools, platforms, workplaces)?
+        **Key Concepts**
+        - Friendship as reciprocal goodwill directed at the good of the friend, rooted in mutual recognition and likeness.
+        - The role of habituation and shared practices in stabilizing character and making friendship morally formative.
+        - The distinction between private personal friendship and friendships that underpin civic institutions and laws.
 
-        **Exercises**
-        1. Draft a **mini-code** of 6–8 practices for your community/team, including habituation steps and enforcement.
-        2. Identify two structures in your life that either hinder or help virtue; propose reforms.
-        3. Create a one-page **synthesis map** linking the books: happiness → virtue → prudence → friendship → contemplation → legislation.
+        **Key Terms**
+        - **Philia**: Greek term for friendship or affectionate regard, encompassing multiple relational forms.
+        - **Virtue Friendship**: A mutual relationship based on shared pursuit of the good and moral excellence.
+        - **Civic Friendship**: Relationships and practices that bind citizens together, supporting political stability and justice.
 
-        **Writing (400–500 words)**: Compose a final reflection: How has your view of happiness and virtue changed? What legislative or communal supports will you build to sustain it?
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book VIII (primary text; recommended translation: W.D. Ross or Terence Irwin)"
+        - "Michael Pakaluk, selected essays on Aristotle's ethics and friendship (secondary readings)"
+        - "Martha C. Nussbaum, selections from The Fragility of Goodness and essays on social goods and interpersonal ethics"
+        - "Selected contemporary articles on friendship, social goods, and political stability (provided in course reader)"
+
+      questions_and_answers:
+        - Q: "What are the three types of friendship Aristotle identifies, and how do they differ?"
+          A: "Aristotle identifies friendships of utility (mutual benefit), pleasure (mutual enjoyment), and virtue (mutual regard for the good). Utility and pleasure friendships are often temporary and contingent on external goods or enjoyment; virtuous friendships are durable, based on mutual moral excellence and concern for the friend's flourishing."
+        - Q: "How does Aristotle connect friendship to the development of moral character?"
+          A: "Friendships provide contexts for habituation, imitation, and moral encouragement. Virtuous friends reciprocally promote good actions, reinforce dispositions, and furnish opportunities for phronesis—practical reasoning about particulars—thereby stabilizing moral character."
+        - Q: "In what way does Aristotle think friendships matter for political life?"
+          A: "Aristotle holds that friendships underpin social bonds and trust necessary for civic cooperation; friendships patterned on virtue help form laws and practices that cultivate citizens' character, supporting unity and political stability."
+
+      exercises:
+        - name: "Retrieval (Easy)"
+          prompt: >
+            Without notes, write brief definitions (1–2 sentences each) for: akrasia, enkrateia,
+            phronesis, and habituation. Then give one concise Aristotelian example (one sentence)
+            showing how each concept relates to friendship or moral development.
+        - name: "Textual Analysis (Medium)"
+          prompt: >
+            Using Book VIII passages, analyze how virtuous friendship helps cultivate moral habits
+            in a person. Identify at least two textual moments where friendship visibly shapes
+            action, link them to habituation and phronesis, and explain how such relationships
+            differ from friendships of pleasure or utility.
+        - name: "Argument (Challenging)"
+          prompt: >
+            Write a structured argument (700–900 words) for or against the claim: 'Virtuous
+            friendships are prerequisites for political stability in Aristotle’s view.' Use Book
+            VIII and at least one secondary source to support your case, address a major
+            counterargument, and conclude with implications for modern civic life.
+
+      assignments:
+        - name: "Weekly Assignment — Personal and Civic Friendship (1,000–1,200 words)"
+          description: >
+            Compose a 1,000–1,200 word essay exploring the interplay between personal (private)
+            friendship and civic friendship in Aristotle’s ethics. Develop a clear thesis about how
+            virtue-friendship informs civic bonds, support claims with close readings of Book VIII
+            and at least one secondary source from the week’s materials, and evaluate whether
+            Aristotle’s account implies normative obligations on citizens to cultivate friendships
+            for the sake of the polis.
+    - lesson_id: 11
+      title: "Friendship Continued: Self-Love, Civic Bonds, and the Political Dimensions of Philia"
+      course: |
+        ## Overview
+        Aristotle’s treatment of friendship in Book IX develops the account from Book VIII by exploring self-love, reciprocity, and how intimate bonds scale into political relationships that sustain civic life. This week we read Book IX closely to see how proper self-love (not selfishness) undergirds virtuous friendship, how friends mirror and perfect one another’s moral character, and how such interpersonal goods contribute to trust, justice, and the common good in the polis. We will also interrogate tensions between partial private attachments and the impartial requirements of political friendship.
+
+        **Key Takeaways**
+        - Proper self-love aligns one’s concern for oneself with virtuous activity and benefits friends and community.
+        - Virtuous friendships cultivate moral character, reinforce phronesis, and stabilize dispositions through mutual correction.
+        - Civic or political friendship extends private goodwill into social institutions, supporting trust, justice, and the common good.
+
+        **Key Concepts**
+        - Self-love as a source of moral motivation that must be ordered toward virtue and communal flourishing.
+        - Distinction among friendships of utility, pleasure, and virtue, and their differing civic significance.
+        - Political friendship as public-minded reciprocity that binds citizens in shared aims and stable institutions.
+
+        **Key Terms**
+        - **philia**: Aristotle’s term for friendship or affectionate bonds among people.
+        - **self-love (proper)**: caring for oneself in ways ordered to virtue and communal flourishing.
+        - **political friendship**: civic bonds and reciprocal goodwill that contribute to the polis and common good.
+
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book IX (primary; recommended translation: Terence Irwin or W.D. Ross)"
+        - "Aristotle, Nicomachean Ethics, Book VIII (for cross-reference on friendship taxonomy)"
+        - "Martha C. Nussbaum, The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy (selections on friendship and the good life)"
+        - "Richard Kraut, Aristotle on the Human Good (sections on friendship and politics)"
+        - "Course reader — selected contemporary essays on friendship, civic trust, and social goods (posted on course site)"
+
+      questions_and_answers:
+        - Q: "How does Aristotle reconcile self-love with altruistic friendship in Book IX?"
+          A: "Aristotle distinguishes proper self-love—seeking one’s own good by pursuing virtue—from selfishness. Proper self-love leads one to value virtuous friends because their good supports one’s own flourishing; thus self-regard and concern for friends align rather than conflict."
+        - Q: "What are the key differences between friendships of utility, pleasure, and virtue, especially in political contexts?"
+          A: "Friendships of utility and pleasure are contingent and often short-lived; they serve individual benefit. Virtue-friendships are enduring, mutual, and focused on good character. Politically, virtue-friendships foster trust and shared aims, while utility/pleasure ties can contribute instrumentally but less reliably to civic cohesion."
+        - Q: "In what ways does Aristotle think friendships contribute to the polis and common good?"
+          A: "Aristotle argues friendships create reciprocal goodwill, stabilize social relations, and habituate citizens toward justice and mutual assistance; when extended politically, these bonds support institutions, encourage lawful cooperation, and make collective life more flourishing."
+
+      exercises:
+        - name: "Retrieval Practice (Easy)"
+          prompt: >
+            Without notes, write concise answers (2–3 sentences each) recalling the following
+            concepts: (1) the taxonomy of friendship (utility, pleasure, virtue); (2) friendship's
+            role in habituation and development of phronesis; (3) the political significance of
+            civic friendship and social goods. Time limit: 12 minutes. After finishing, check your
+            answers against Book VIII–IX and note one correction.
+        - name: "Comparative Analysis (Medium)"
+          prompt: >
+            Compare and contrast private (intimate) friendships and political friendships in
+            Aristotle’s account. In 400–600 words, explain their moral value, stability, and typical
+            aims; include at least two textual citations from Books VIII–IX and give one
+            contemporary example of each type.
+        - name: "Policy Design Brief (Challenging)"
+          prompt: >
+            Prepare a 1,000–1,200 word policy brief for a municipal council that argues how
+            Aristotle’s account of friendship can inform a community-building initiative. Identify
+            concrete program elements (e.g., mentorship networks, civic rituals, shared service
+            projects), anticipated benefits for civic trust and the common good, potential
+            objections (partiality, exclusion), and measurable success indicators.
+
+      assignments:
+        - name: "Weekly Paper — Civic Implications of Aristotelian Friendship"
+          description: >
+            Write a 1,200–1,500 word analytic paper assessing how Aristotle’s account of friendship
+            (Books VIII–IX) bears on contemporary civic life. Address: (1) proper self-love and its
+            civic repercussions; (2) how virtue-friendship cultivates phronesis and public trust;
+            (3) concrete implications for political institutions or community design. Cite primary
+            text passages and at least two secondary sources from the course reader. Grading
+            emphasizes clarity of argument, textual engagement, and application to civic practice.
+            Due Sunday at 11:59pm.
+    - lesson_id: 12
+      title: "Book X — Pleasure, Contemplation, and the Highest Life"
+      course: |
+        ## Overview
+        In Book X Aristotle brings his ethical project to a culmination by examining the role of pleasure and the nature of the best life. He argues that pleasure properly completes virtuous activity without being its essence, and then advances a sustained case for contemplative activity (theoria) as the highest, most self-sufficient exercise of the rational part of the soul. This week emphasizes close reading of Book X passages that connect pleasure, virtue, and intellectual activity, and it situates Aristotle’s contemplative ideal against secondary views that prioritize political or active lives.
+
+        **Key Takeaways**
+        - Contemplation (theoria) is the most continuous, self-sufficient activity and thus closest to eudaimonia.
+        - Pleasure accompanies and perfects activity when it naturally follows a virtuous exercise.
+        - Theoria’s superiority rests on reason’s highest function and intellectual autonomy.
+
+        **Key Concepts**
+        - Theoria as the pure exercise of the intellect, continuous and self-contained, comprising the highest human activity.
+        - Pleasure as accompaniment: not the aim of virtue, but a natural completion of excellent activity.
+        - The relation between political/active life and contemplative life: compatibility, priority, and human social goods.
+
+        **Key Terms**
+        - **Theoria**: contemplative, intellectual activity focused on truth and understanding.
+        - **Eudaimonia**: flourishing or the good life achieved by virtuous and rational activity.
+        - **Pleasure**: an accompaniment that completes activity when it fits the activity’s nature.
+
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book X (primary passages on pleasure and contemplation) — recommended translation: W.D. Ross or Terence Irwin."
+        - "Martha C. Nussbaum, The Fragility of Goodness (selections on external goods and the best life)."
+        - "Richard Kraut, Aristotle on the Human Good (chapters on Book X and the contemplative life)."
+        - "Sarah Broadie, Ethics with Aristotle (essays contrasting the active and contemplative ideals)."
+
+      questions_and_answers:
+        - Q: "Why does Aristotle privilege contemplative activity (theoria) as the highest form of human life?"
+          A: "Aristotle argues that theoria exercises the highest part of the soul (reason) in a continuous, self-sufficient way, aims at truth for its own sake, and yields the most enduring form of pleasure tied to intellectual activity; therefore it best expresses human function and eudaimonia."
+        - Q: "How does Aristotle reconcile pleasure with virtuous action in Book X?"
+          A: "He treats pleasure as a natural completion of activity: when an activity is excellent, the pleasure that naturally accompanies it perfects rather than corrupts it, distinguishing good pleasures aligned with virtue from base, corrupting pleasures."
+        - Q: "Can the contemplative ideal be reconciled with civic or political engagement?"
+          A: "Aristotle allows that political activity has value and that many people achieve eudaimonia through practical, social life; however, he grants contemplative life priority in terms of excellence and self-sufficiency while not wholly dismissing the moral importance of civic activity."
+
+      exercises:
+        - name: "(Easy) Retrieval — key concepts recall"
+          prompt: >
+            Without notes, briefly define and contrast akrasia and enkrateia, and state how
+            habituation affects moral character and why political friendship matters for civic life.
+            (Recall 3–4 brief points.)
+        - name: "(Medium) Analysis — pleasure and virtuous activity"
+          prompt: >
+            Drawing on Book X, analyze how Aristotle distinguishes good pleasure from bad pleasure
+            and explain how pleasure functions as a completion of virtuous activity rather than its
+            aim. Use textual examples and consider objections.
+        - name: "(Challenging) Critical debate — the priority of contemplation"
+          prompt: >
+            Write a reasoned critique or defense of Aristotle’s claim that contemplative life is the
+            highest human good, addressing modern pluralistic values and the civic importance of
+            active engagement.
+
+      assignments:
+        - name: "Weekly Essay — The Contemplative Ideal and Civic Life"
+          description: >
+            Compose a 1,200–1,400 word critical essay assessing whether Aristotle’s contemplative
+            ideal is compatible with a modern active, civic life. Ground your argument in Book X
+            passages, address how pleasure and virtue interact, and engage at least one secondary
+            source from the reading list to consider contemporary objections.
+    - lesson_id: 13
+      title: "Synthesis: Contemplation, Friendship, and the Highest Good"
+      course: |
+        ## Overview
+        This week brings together Aristotle’s account of eudaimonia by synthesizing the moral and intellectual virtues, the role of practical wisdom (phronesis), the structure and civic importance of friendship (philia), and Book X’s prioritization of contemplative life. We consider how pleasures properly complete activity, how habits and friendships cultivate phronesis, and how public institutions and equitable judgment support individual flourishing.
+
+        We also address tensions Aristotle recognizes: the high valuation of theoria versus the undeniable social and political goods of active life; the corrective role of equity in applying rules to particulars; and how contemplation and civic engagement can be integrated into a practicable ideal of the good life.
+        **Key Takeaways**
+        - Aristotle unites moral and intellectual virtues through phronesis, which guides right action toward eudaimonia.
+        - Friendship habituates and sustains virtue, providing moral contexts that develop and exercise phronesis.
+        - Contemplative activity ranks highest, yet active civic goods and pleasures properly complete virtuous life.
+        **Key Concepts**
+        - Phronesis integrates reasoned deliberation with character to select means and ends constitutive of flourishing.
+        - Pleasure complements virtuous activity when it naturally follows excellence without becoming its primary aim.
+        - Epieikeia (equity) and judicial discretion reconcile universal rules with particular cases in practical judgment.
+        **Key Terms**
+        - **theoria**: contemplative activity directed at truth and intellectual excellence, highest exercise of the intellect.
+        - **phronesis**: practical wisdom that coordinates moral feeling and deliberation to choose the mean and act well.
+        - **epieikeia**: equity; corrective judgment that modifies general law to fit particular circumstances.
+
+      sources:
+        - "Aristotle, Nicomachean Ethics, Book X (primary text; any standard translation)"
+        - "Aristotle, Nicomachean Ethics, Books I–IX (cross-reference to virtues, friendship, phronesis)"
+        - "Secondary: Martha Nussbaum, 'Aristotle on Human Nature and Political Life' (comparative discussion on flourishing)"
+        - "Secondary: Julia Annas, 'The Morality of Happiness' (on unity of moral and intellectual virtues)"
+        - "Secondary: Short comparative piece on contemporary accounts of flourishing (journal article)"
+
+      questions_and_answers:
+        - Q: "How does Aristotle reconcile the priority of contemplation with the value of civic life?"
+          A: "Aristotle privileges contemplation as the most self-sufficient, continuous, and divine-like activity, yet recognizes civic and practical goods as important components of a full life; political activity supplies external goods and moral contexts necessary for developing virtue and sustaining the contemplative life."
+        - Q: "What role does pleasure play in virtuous activity according to Book X?"
+          A: "Pleasure is a natural completion of activity: when activity is well-executed, pleasure accompanies it without undermining excellence; it is not the essence of virtue but confirms and enhances functioning."
+        - Q: "Why is equity (epieikeia) important for practical judgment?"
+          A: "Equity corrects the rigidity of universal rules by allowing discretion that attends to particulars, enabling judges and agents to apply justice when legal formulations fail to capture exceptional circumstances."
+
+      exercises:
+        - name: "Retrieval (Easy)"
+          prompt: >
+            Without notes and in five minutes, write one clear sentence for each of the following:
+            (1) friendship's role in habituation and development of phronesis, (2) pleasure as
+            completion of activity (not essence of virtue), (3) interaction of contemplative and
+            active/civic goods in a flourishing life.
+        - name: "Concept Map (Medium)"
+          prompt: >
+            Create a concept map showing how eudaimonia, moral virtue, phronesis, and friendship
+            interrelate in Aristotle’s account. Include nodes for at least: external goods,
+            pleasure, theoria (contemplation), civic friendship, and equity; draw labeled
+            connections and submit a 250–350 word narrative explaining the map and key linkages.
+        - name: "Integrative Short Paper (Challenging)"
+          prompt: >
+            Write a focused integrative paper (800–1,000 words) defending a reading of Aristotle’s
+            highest good that unifies Books I–X. Your paper should address: how moral and
+            intellectual virtues are unified, the place of friendship and political goods, the
+            relation between pleasure and activity, and why contemplation is privileged (or how it
+            can be reconciled with active goods). Use specific textual references.
+
+      assignments:
+        - name: "Week 13 Integrative Essay"
+          description: >
+            Compose a 1,200–1,500 word integrative essay synthesizing key arguments across the
+            Nicomachean Ethics that explain Aristotle’s account of the highest human good. Your
+            essay should: (a) articulate how moral and intellectual virtues jointly constitute
+            eudaimonia via phronesis, (b) analyze friendship’s role in moral development and civic
+            flourishing, (c) assess pleasure’s function as completion of activity, and (d) defend
+            how contemplation relates to practical and political goods. Cite primary passages (Books
+            I–X) and at least one secondary source. Grading emphasizes argument clarity, textual
+            engagement, and synthesis.
+    - lesson_id: 14
+      title: "Week 14 — Integrative Synthesis: Aristotle’s Ethical Vision in Practice"
+      course: |
+        ## Overview
+        In Week 14 we move from close reading to integrative synthesis, drawing together Aristotle’s central claims about eudaimonia, moral and intellectual virtues, friendship, pleasure, and the role of political life. Students will review key passages from Books I–X, consolidate notes, and prepare sustained oral and written syntheses that connect textual analysis with contemporary ethical problems. Emphasis is on demonstrating how phronesis (practical wisdom) unifies moral character and deliberation, how contemplation and civic activity interrelate, and how friendships habituate and enable virtuous action in communities.
+
+        **Key Takeaways**
+        - Synthesize how phronesis unites moral virtue and correct action in a flourishing life.
+        - Show how contemplative and active goods complement each other for full eudaimonia.
+        - Explain friendship's formative role in habituation, trust, and political cohesion.
+
+        **Key Concepts**
+        - Practical wisdom (phronesis) functions as situational reason connecting virtue and action.
+        - Theoria and civic activity coexist: contemplation prioritized but complemented by public goods.
+        - Friendship types differ in stability and contribute differently to individual and civic flourishing.
+
+        **Key Terms**
+        - **Phronesis**: practical wisdom enabling right deliberation and action in particular situations.
+        - **Theoria**: contemplative activity, the highest exercise of intellect and source of supreme happiness.
+        - **Philia**: friendship or mutual goodwill, essential to moral development and communal life.
+
+      sources:
+        - "Aristotle, Nicomachean Ethics, Books I–X (selected passages for review: I.7, II.1–6, III–IV on voluntariness and virtue, V on justice, VI on phronesis, VII on akrasia, VIII–IX on friendship, X on pleasure and theoria)."
+        - "Aristotle. Nicomachean Ethics. Recommended edition: any reliable translation with notes (e.g., Terence Irwin or Roger Crisp translations)."
+        - "Terence Irwin, Aristotle's Nicomachean Ethics: A Critical Guide (selected chapters on virtue and phronesis)."
+        - "Martha C. Nussbaum, The Fragility of Goodness (selected chapters on luck, friendship, and political life)."
+        - "Secondary readings compiled by instructor: articles on phronesis, civic friendship, and contemporary applications (available on course site)."
+
+      questions_and_answers:
+        - Q: "How does phronesis unify moral and intellectual virtues in Aristotle's account?"
+          A: "Phronesis is the practical intellectual virtue that grasps particulars and deliberates well about ends and means, thereby linking moral dispositions (hexis) to correct action; it integrates moral virtue's stable character with rational guidance in specific situations."
+        - Q: "In preparing a final synthesis, how should one balance the priority of contemplation with the value of civic activity?"
+          A: "A strong synthesis acknowledges Aristotle's preference for theoria while showing that political and active goods remain integral to a full human life: contemplation is highest in excellence, but flourishing often requires friendships, civic roles, and practical goods for completeness."
+        - Q: "What role do friendships play in cultivating phronesis and sustaining political communities?"
+          A: "Friendships, especially those centered on virtue, habituate individuals to reciprocal goodwill and deliberative practices, strengthening moral dispositions and fostering trust and cooperation that underpin civic stability and collective flourishing."
+
+      exercises:
+        - name: "(Easy) Retrieval: Four-Concept Recall and Core Thesis"
+          prompt: >
+            Without consulting notes or texts, write a concise paragraph (6–10 sentences) that: (a)
+            states the central thesis of the Nicomachean Ethics regarding eudaimonia and the role of
+            virtue, and (b) defines and distinguishes the four concepts techne, episteme, sophia,
+            and phronesis. Time limit: 20 minutes. Focus on recalling core contrasts and functions
+            from memory.
+        - name: "(Medium) Peer-Review Draft Exchange"
+          prompt: >
+            Exchange your draft synthesis (800–1,000 words) with a peer. Provide structured feedback
+            focused on thesis clarity, textual evidence, integration of phronesis and theoria, and
+            contemporary relevance. Use a rubric: clarity of claim, textual support, conceptual
+            integration, and argumentative coherence. Revise draft based on feedback.
+        - name: "(Challenging) Final Oral Presentation"
+          prompt: >
+            Deliver a 10–12 minute presentation tying one Aristotelian insight (e.g., phronesis,
+            friendship taxonomy, or theoria vs. active goods) to a contemporary ethical issue (e.g.,
+            civic polarization, professional ethics, or care ethics). Include close reading of at
+            least two passages, a clear argumentative thread, and implications for present-day
+            practice. Prepare slides or handouts and allow 5 minutes for Q&A.
+
+      assignments:
+        - name: "Final Project"
+          description: >
+            Submit a 2,000–2,500 word essay or equivalent project (e.g., a 20–25 minute recorded
+            presentation with transcript) offering a sustained interpretation and application of
+            Aristotle’s ethical vision. Requirements: a clear thesis engaging Books I–X, close
+            readings of at least three key passages, engagement with at least two secondary sources,
+            and an applied section connecting Aristotle to a contemporary ethical problem. Cite
+            sources properly. Due: end of exam period.
